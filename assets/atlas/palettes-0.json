@@ -1,0 +1,19 @@
+{
+  "frames": {
+    "spr_ColorGrid01/0": {
+      "frame": { "x": 0, "y": 0, "w": 10, "h": 14 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 10, "h": 14 },
+      "sourceSize": { "w": 10, "h": 14 }
+    },
+    "spr_color_grid_2c/0": {
+      "frame": { "x": 11, "y": 0, "w": 14, "h": 4 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 14, "h": 4 },
+      "sourceSize": { "w": 14, "h": 4 }
+    }
+  },
+  "meta": { "image": "palettes-0.png", "size": { "w": 32, "h": 16 }, "scale": 1 }
+}

@@ -1,0 +1,19 @@
+{
+  "frames": {
+    "spr_Title_screen_Title/0": {
+      "frame": { "x": 0, "y": 0, "w": 256, "h": 224 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 224 },
+      "sourceSize": { "w": 256, "h": 224 }
+    },
+    "spr_Title_screen_Sword_1a/0": {
+      "frame": { "x": 257, "y": 0, "w": 16, "h": 64 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 64 },
+      "sourceSize": { "w": 16, "h": 64 }
+    }
+  },
+  "meta": { "image": "title_screen-0.png", "size": { "w": 512, "h": 256 }, "scale": 1 }
+}

@@ -1,0 +1,11634 @@
+[
+ {
+  "name": "spr_0",
+  "atlas": "root-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": ""
+ },
+ {
+  "name": "spr_1x1_RED",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 1,
+  "height": 1,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 0,
+   "top": 0,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_1x1_WHT",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 1,
+  "height": 1,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 0,
+   "top": 0,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_2nd_quest_icon",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 6,
+   "top": 1,
+   "bottom": 7
+  },
+  "folder": "gui/file_select"
+ },
+ {
+  "name": "spr_Ache1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 12,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "enemy/ache"
+ },
+ {
+  "name": "spr_Ache2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 13
+  },
+  "folder": "enemy/ache"
+ },
+ {
+  "name": "spr_Acheman1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 2,
+   "bottom": 31
+  },
+  "folder": "enemy/ache"
+ },
+ {
+  "name": "spr_Aneru1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "enemy/aneru"
+ },
+ {
+  "name": "spr_Aneru2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/aneru"
+ },
+ {
+  "name": "spr_arena_gate_head_1a_WRB",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_arena_gate_piece_1a_WRB",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 8,
+  "height": 4,
+  "originX": 4,
+  "originY": 2,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 3
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_arrow_1b",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_arrow_2a_BRW",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 2,
+   "right": 6,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_arrow_2a_RWB",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 2,
+   "right": 6,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_arrow_2a_WRB",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 2,
+   "right": 6,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_arrow_3a_WRB",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 3,
+   "right": 5,
+   "top": 1,
+   "bottom": 5
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_arrow_3b_WRB",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 2,
+   "right": 6,
+   "top": 0,
+   "bottom": 6
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_arrow_4a_BWR",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 6,
+   "top": 0,
+   "bottom": 6
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_arrow_4a_RWB",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 6,
+   "top": 0,
+   "bottom": 6
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_arrow_4a_WRB",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 6,
+   "top": 0,
+   "bottom": 6
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_arrow_5a_BWR",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 5
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_arrow_5a_RWB",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 5
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_arrow_5a_WRB",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 5
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_arrow_6_dwn",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 6,
+   "top": 1,
+   "bottom": 5
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_arrow_6_lft",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 3,
+   "right": 6,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_arrow_6_rgt",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 1,
+   "right": 4,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_arrow_6_up",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 6,
+   "top": 2,
+   "bottom": 6
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_Aruroda_body1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "enemy/aruroda"
+ },
+ {
+  "name": "spr_Aruroda_body2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "enemy/aruroda"
+ },
+ {
+  "name": "spr_Aruroda_head1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 16,
+   "bottom": 28
+  },
+  "folder": "enemy/aruroda"
+ },
+ {
+  "name": "spr_Aruroda_head2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 17,
+   "bottom": 28
+  },
+  "folder": "enemy/aruroda"
+ },
+ {
+  "name": "spr_Aruroda_tail1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 5,
+   "bottom": 15
+  },
+  "folder": "enemy/aruroda"
+ },
+ {
+  "name": "spr_Aruroda_tail2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 1,
+   "right": 15,
+   "top": 7,
+   "bottom": 15
+  },
+  "folder": "enemy/aruroda"
+ },
+ {
+  "name": "spr_Atta_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/atta"
+ },
+ {
+  "name": "spr_Atta_1a_1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/atta"
+ },
+ {
+  "name": "spr_Atta_1b_2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "enemy/atta"
+ },
+ {
+  "name": "spr_Aura_1a_WBR",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_Aura_1a_WRB",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_Aura_2a_WRB",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_Aura_3a_1",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 0,
+   "right": 23,
+   "top": 0,
+   "bottom": 23
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_Axe1",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 3,
+   "bottom": 13
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Axe2",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 14
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Bagin_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/bagin"
+ },
+ {
+  "name": "spr_Bagin_1b",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/bagin"
+ },
+ {
+  "name": "spr_Bago1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "enemy/bago"
+ },
+ {
+  "name": "spr_Bago2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "enemy/bago"
+ },
+ {
+  "name": "spr_Balshot",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/balshot"
+ },
+ {
+  "name": "spr_Balshot01a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/balshot"
+ },
+ {
+  "name": "spr_Balshot01b",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/balshot"
+ },
+ {
+  "name": "spr_Barba_1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 48,
+  "height": 16,
+  "originX": 24,
+  "originY": 8,
+  "bbox": {
+   "left": 16,
+   "right": 46,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "boss/barba"
+ },
+ {
+  "name": "spr_Barba_1b",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 48,
+  "height": 16,
+  "originX": 24,
+  "originY": 8,
+  "bbox": {
+   "left": 16,
+   "right": 46,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "boss/barba"
+ },
+ {
+  "name": "spr_Barba_1c",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 48,
+  "height": 16,
+  "originX": 24,
+  "originY": 8,
+  "bbox": {
+   "left": 16,
+   "right": 45,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "boss/barba"
+ },
+ {
+  "name": "spr_Barba_2a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 48,
+  "height": 16,
+  "originX": 24,
+  "originY": 8,
+  "bbox": {
+   "left": 16,
+   "right": 31,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "boss/barba"
+ },
+ {
+  "name": "spr_Barba_Placement",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 15,
+   "right": 0,
+   "top": 15,
+   "bottom": 0
+  },
+  "folder": "boss/barba"
+ },
+ {
+  "name": "spr_Barrier_1a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 1,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Barrier_1b",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 1,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Blcok05",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 31,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Block_01a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Block_01b",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Block_01c",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Block_02a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Block03",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Block04",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Block06",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 31,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Blooby_1a_1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "enemy/blooby"
+ },
+ {
+  "name": "spr_Blooby_1b_1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "enemy/blooby"
+ },
+ {
+  "name": "spr_Blooby_2a_1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/blooby"
+ },
+ {
+  "name": "spr_Blooby_2a_2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/blooby"
+ },
+ {
+  "name": "spr_Boggnipp_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "enemy/boggnipp"
+ },
+ {
+  "name": "spr_Boggnipp_1b",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "enemy/boggnipp"
+ },
+ {
+  "name": "spr_Bolo1",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 13
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Boomerang1",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 7,
+   "top": 4,
+   "bottom": 11
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Boon1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/boon"
+ },
+ {
+  "name": "spr_Boon2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "enemy/boon"
+ },
+ {
+  "name": "spr_Boss_legs1A",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "boss/pieces"
+ },
+ {
+  "name": "spr_Boss_legs1B",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 1,
+   "right": 11,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "boss/pieces"
+ },
+ {
+  "name": "spr_Boss_mace1A",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 16,
+  "height": 48,
+  "originX": 8,
+  "originY": 24,
+  "bbox": {
+   "left": 8,
+   "right": 15,
+   "top": 16,
+   "bottom": 24
+  },
+  "folder": "boss/pieces"
+ },
+ {
+  "name": "spr_Boss_mace1B",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 16,
+  "height": 48,
+  "originX": 8,
+  "originY": 24,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 21,
+   "bottom": 31
+  },
+  "folder": "boss/pieces"
+ },
+ {
+  "name": "spr_Boss_Spike_ball_1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 2,
+   "bottom": 14
+  },
+  "folder": "boss/pieces"
+ },
+ {
+  "name": "spr_Boss_Spike_ball_Chain_1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 7,
+   "bottom": 9
+  },
+  "folder": "boss/pieces"
+ },
+ {
+  "name": "spr_BossBot1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 1,
+   "right": 46,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_BossBot2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 2,
+   "right": 45,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Bot_Ball",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 3,
+   "bottom": 15
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Bot_Eyes_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 5,
+   "right": 10,
+   "top": 7,
+   "bottom": 9
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Bot_Eyes_1a_1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 5,
+   "right": 10,
+   "top": 7,
+   "bottom": 9
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Bot_Eyes_1b",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 6,
+   "right": 9,
+   "top": 7,
+   "bottom": 9
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Bot_Eyes_1b_1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 6,
+   "right": 9,
+   "top": 7,
+   "bottom": 9
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Bot_Norm",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 4,
+   "bottom": 15
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Bot_Squish",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 4,
+   "bottom": 15
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Bot2_Ball",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 3,
+   "bottom": 15
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Bot2_Norm",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 4,
+   "bottom": 15
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Bot2_Squish",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 4,
+   "bottom": 15
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Bot3_Ball",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 3,
+   "bottom": 15
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Bot3_Norm",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 4,
+   "bottom": 15
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Bot3_Squish",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 4,
+   "bottom": 15
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Bottle_6a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 3,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Bottle_6a_Liquid_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 9,
+   "bottom": 14
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Bottle_6a_Liquid_1b",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 9,
+   "bottom": 14
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Bottle_6a_Liquid_1c",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 9,
+   "bottom": 14
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Bottle_7a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 12,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Bottle_7a_Liquid_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 4,
+   "right": 11,
+   "top": 6,
+   "bottom": 14
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Bottle_7a_Liquid_1b",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 4,
+   "right": 11,
+   "top": 6,
+   "bottom": 14
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Bottle_7a_Liquid_1c",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 4,
+   "right": 11,
+   "top": 6,
+   "bottom": 14
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Bubble1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "enemy/bubble"
+ },
+ {
+  "name": "spr_Bullet1",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 4,
+   "bottom": 11
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Button_PlaystationCircle01",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 9,
+  "height": 9,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 8,
+   "top": 0,
+   "bottom": 8
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_Button_PlaystationSquare01",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 9,
+  "height": 9,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 8,
+   "top": 0,
+   "bottom": 8
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_Button_PlaystationTriangle01",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 9,
+  "height": 9,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 8,
+   "top": 0,
+   "bottom": 8
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_Button_PlaystationX01",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 9,
+  "height": 9,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 8,
+   "top": 0,
+   "bottom": 8
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_Button_XBoxA01",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 9,
+  "height": 9,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 8,
+   "top": 0,
+   "bottom": 8
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_Button_XBoxB01",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 9,
+  "height": 9,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 8,
+   "top": 0,
+   "bottom": 8
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_Button_XBoxX01",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 9,
+  "height": 9,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 8,
+   "top": 0,
+   "bottom": 8
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_Button_XBoxY01",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 9,
+  "height": 9,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 8,
+   "top": 0,
+   "bottom": 8
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_Candle01",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 6,
+   "right": 9,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_CandyCorn01",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Carock_1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 32,
+  "height": 48,
+  "originX": 16,
+  "originY": 24,
+  "bbox": {
+   "left": 7,
+   "right": 26,
+   "top": 2,
+   "bottom": 47
+  },
+  "folder": "boss/carock"
+ },
+ {
+  "name": "spr_Carock_1b",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 32,
+  "height": 48,
+  "originX": 16,
+  "originY": 24,
+  "bbox": {
+   "left": 0,
+   "right": 29,
+   "top": 0,
+   "bottom": 47
+  },
+  "folder": "boss/carock"
+ },
+ {
+  "name": "spr_Carock_2a_1_v2_WRB",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 32,
+  "height": 48,
+  "originX": 16,
+  "originY": 24,
+  "bbox": {
+   "left": 0,
+   "right": 31,
+   "top": 0,
+   "bottom": 47
+  },
+  "folder": "boss/carock"
+ },
+ {
+  "name": "spr_Carock_2a_WRB",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 32,
+  "height": 48,
+  "originX": 16,
+  "originY": 24,
+  "bbox": {
+   "left": 0,
+   "right": 31,
+   "top": 0,
+   "bottom": 47
+  },
+  "folder": "boss/carock"
+ },
+ {
+  "name": "spr_Castlevania2Enemy01_1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/other"
+ },
+ {
+  "name": "spr_Castlevania2Enemy01_2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/other"
+ },
+ {
+  "name": "spr_Castlevania2Enemy02_1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/other"
+ },
+ {
+  "name": "spr_Castlevania2Enemy02_2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "enemy/other"
+ },
+ {
+  "name": "spr_Castlevania2Enemy03_1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "enemy/other"
+ },
+ {
+  "name": "spr_Castlevania2Enemy03_2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "enemy/other"
+ },
+ {
+  "name": "spr_Castlevania2Enemy04_1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/other"
+ },
+ {
+  "name": "spr_Castlevania2Enemy04_2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/other"
+ },
+ {
+  "name": "spr_Castlevania2NPC01_1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 1,
+   "right": 13,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Castlevania2NPC01_2",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Castlevania2NPC02_1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Castlevania2NPC02_2",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 13,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Castlevania2NPC03_1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Castlevania2NPC03_2",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 1,
+   "right": 15,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Castlevania2NPC04_1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Castlevania2NPC04_2",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 2,
+   "right": 14,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Chain_link_01a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 4,
+  "height": 4,
+  "originX": 2,
+  "originY": 2,
+  "bbox": {
+   "left": 0,
+   "right": 3,
+   "top": 0,
+   "bottom": 3
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Chain_link_02a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 4,
+  "height": 4,
+  "originX": 2,
+  "originY": 2,
+  "bbox": {
+   "left": 0,
+   "right": 2,
+   "top": 0,
+   "bottom": 3
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_CheckMark2_0",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 2,
+   "bottom": 14
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_CheckMark2_1",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 2,
+   "bottom": 14
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_CheckMark2_2",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 2,
+   "bottom": 14
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_CheckMark2_3",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 2,
+   "bottom": 14
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_CheckMark2_4",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 2,
+   "bottom": 14
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_chicken_1a_body_1a_1_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 16,
+  "originX": 16,
+  "originY": 8,
+  "bbox": {
+   "left": 8,
+   "right": 20,
+   "top": 0,
+   "bottom": 13
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_chicken_1a_body_2a_1_v3_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 16,
+  "originX": 16,
+  "originY": 8,
+  "bbox": {
+   "left": 8,
+   "right": 21,
+   "top": 0,
+   "bottom": 13
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_chicken_1a_body_3a_1_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 16,
+  "originX": 16,
+  "originY": 8,
+  "bbox": {
+   "left": 8,
+   "right": 27,
+   "top": 4,
+   "bottom": 13
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_chicken_1a_body_4a_1_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 16,
+  "originX": 16,
+  "originY": 8,
+  "bbox": {
+   "left": 8,
+   "right": 21,
+   "top": 4,
+   "bottom": 14
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_chicken_1a_body_5a_1_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 16,
+  "originX": 16,
+  "originY": 8,
+  "bbox": {
+   "left": 8,
+   "right": 22,
+   "top": 4,
+   "bottom": 14
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_chicken_1a_body_6a_1_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 16,
+  "originX": 16,
+  "originY": 8,
+  "bbox": {
+   "left": 8,
+   "right": 20,
+   "top": 1,
+   "bottom": 13
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_chicken_1a_body_7a_1_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 16,
+  "originX": 16,
+  "originY": 8,
+  "bbox": {
+   "left": 8,
+   "right": 22,
+   "top": 5,
+   "bottom": 14
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_chicken_1a_body_7b_1_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 16,
+  "originX": 16,
+  "originY": 8,
+  "bbox": {
+   "left": 8,
+   "right": 23,
+   "top": 5,
+   "bottom": 14
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_chicken_1a_damage_1a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 11,
+   "right": 24,
+   "top": 7,
+   "bottom": 24
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_chicken_1a_legs_1a_1_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 16,
+  "originX": 16,
+  "originY": 8,
+  "bbox": {
+   "left": 12,
+   "right": 17,
+   "top": 13,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_chicken_1a_legs_1a_2_v2_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 16,
+  "originX": 16,
+  "originY": 8,
+  "bbox": {
+   "left": 14,
+   "right": 19,
+   "top": 13,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_chicken_1a_legs_1a_3_v3_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 16,
+  "originX": 16,
+  "originY": 8,
+  "bbox": {
+   "left": 13,
+   "right": 17,
+   "top": 13,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_chicken_1a_legs_1a_4_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 16,
+  "originX": 16,
+  "originY": 8,
+  "bbox": {
+   "left": 11,
+   "right": 19,
+   "top": 13,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_chicken_1a_wing_1a_1_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 7,
+   "bottom": 13
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_chicken_1a_wing_1a_2_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 6,
+   "top": 1,
+   "bottom": 9
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_cloud_1a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 24,
+  "height": 16,
+  "originX": 12,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 22,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_cloud_2a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 16,
+  "originX": 16,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 30,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_color_grid_2c",
+  "atlas": "palettes-0",
+  "frames": 1,
+  "width": 14,
+  "height": 4,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 13,
+   "top": 0,
+   "bottom": 3
+  },
+  "folder": "palettes"
+ },
+ {
+  "name": "spr_ColorGrid01",
+  "atlas": "palettes-0",
+  "frames": 1,
+  "width": 10,
+  "height": 14,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 9,
+   "top": 0,
+   "bottom": 13
+  },
+  "folder": "palettes"
+ },
+ {
+  "name": "spr_Column_top1",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_copyright_char",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Crystal_1a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 3,
+   "bottom": 11
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Crystal_1b",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 3,
+   "bottom": 11
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Crystal_icon",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/icons"
+ },
+ {
+  "name": "spr_Daira_Arm",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 3,
+   "bottom": 14
+  },
+  "folder": "enemy/daira"
+ },
+ {
+  "name": "spr_Daira1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/daira"
+ },
+ {
+  "name": "spr_Daira2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "enemy/daira"
+ },
+ {
+  "name": "spr_Deeler_web1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 7,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/deeler"
+ },
+ {
+  "name": "spr_Deeler1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/deeler"
+ },
+ {
+  "name": "spr_Demon_icon",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/icons"
+ },
+ {
+  "name": "spr_Doll_PC_1a_WRB",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "gui/file_select"
+ },
+ {
+  "name": "spr_Doomknocker_arm1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/doomknocker"
+ },
+ {
+  "name": "spr_Doomknocker_body1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/doomknocker"
+ },
+ {
+  "name": "spr_Doomknocker_legs1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "enemy/doomknocker"
+ },
+ {
+  "name": "spr_Doomknocker_legs2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 11,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "enemy/doomknocker"
+ },
+ {
+  "name": "spr_Doorway01",
+  "atlas": "door-0",
+  "frames": 1,
+  "width": 16,
+  "height": 40,
+  "originX": 8,
+  "originY": 20,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 39
+  },
+  "folder": "door"
+ },
+ {
+  "name": "spr_Doorway01_1",
+  "atlas": "door-0",
+  "frames": 1,
+  "width": 16,
+  "height": 40,
+  "originX": 8,
+  "originY": 20,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 39
+  },
+  "folder": "door"
+ },
+ {
+  "name": "spr_Doorway01_Closed01",
+  "atlas": "door-0",
+  "frames": 1,
+  "width": 16,
+  "height": 40,
+  "originX": 8,
+  "originY": 20,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 39
+  },
+  "folder": "door"
+ },
+ {
+  "name": "spr_Drop1",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 7,
+   "top": 3,
+   "bottom": 14
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Elevator_1A",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 24,
+  "height": 16,
+  "originX": 12,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 23,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Elevator_2a_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 24,
+  "height": 8,
+  "originX": 12,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 23,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Elevator_3a_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 24,
+  "height": 8,
+  "originX": 12,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 23,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Elevator_chain_2a_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 1,
+   "right": 2,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Elevator_gear_1a_WRB",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 1,
+   "right": 4,
+   "top": 2,
+   "bottom": 5
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Enemy_Sword_beam",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 10,
+   "bottom": 11
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_EnergyBall_1a",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 2,
+   "bottom": 13
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_EnergyBall_1b",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 1,
+   "bottom": 14
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Explosion1A",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 7,
+   "top": 3,
+   "bottom": 12
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Explosion1A_1",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 12,
+   "top": 3,
+   "bottom": 12
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Explosion1B",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Explosion1B_1",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Eye_2a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 3,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "enemy/pieces"
+ },
+ {
+  "name": "spr_Eye_2b",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 3,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "enemy/pieces"
+ },
+ {
+  "name": "spr_Eye_Closed_1a_WRB",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 4,
+   "bottom": 5
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_Eye_Open_1a_WRB",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 5
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_Eye_Open_1b_WRB",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 2,
+   "bottom": 5
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_Eyenocc01_1",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Eyenocc01_2",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Eyenocc01_3",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Fairy_Monster_1a",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 12,
+   "right": 21,
+   "top": 8,
+   "bottom": 23
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Fairy_Monster_2a",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 12,
+   "right": 19,
+   "top": 8,
+   "bottom": 23
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Fairy_Monster_2b",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 12,
+   "right": 19,
+   "top": 8,
+   "bottom": 23
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_FairyA",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "gui/file_select"
+ },
+ {
+  "name": "spr_FairyB",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "gui/file_select"
+ },
+ {
+  "name": "spr_Fire_1a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Fire_1a_1",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Fire_1a_2",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Fireball1",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 5,
+   "bottom": 12
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Fireball2",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 7,
+   "top": 3,
+   "bottom": 11
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Flame_Small_1a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 2,
+   "right": 5,
+   "top": 1,
+   "bottom": 5
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Flame_Small_1b",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 2,
+   "right": 5,
+   "top": 3,
+   "bottom": 7
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Flame1",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Flame2",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 1,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Fokka_Draw_high",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 10
+  },
+  "folder": "enemy/fokka"
+ },
+ {
+  "name": "spr_Fokka_Draw_low",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 24,
+   "bottom": 29
+  },
+  "folder": "enemy/fokka"
+ },
+ {
+  "name": "spr_Fokka_Idle1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/fokka"
+ },
+ {
+  "name": "spr_Fokka_Idle2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/fokka"
+ },
+ {
+  "name": "spr_Fokka_Jump",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 27
+  },
+  "folder": "enemy/fokka"
+ },
+ {
+  "name": "spr_Fokka_Stab_high",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 8,
+   "bottom": 12
+  },
+  "folder": "enemy/fokka"
+ },
+ {
+  "name": "spr_Fokka_Stab_low",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 19,
+   "bottom": 23
+  },
+  "folder": "enemy/fokka"
+ },
+ {
+  "name": "spr_Fokka_Walk1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/fokka"
+ },
+ {
+  "name": "spr_Fokka_Walk2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/fokka"
+ },
+ {
+  "name": "spr_Fokkeru_btm1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "enemy/fokkeru"
+ },
+ {
+  "name": "spr_Fokkeru_btm2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 1,
+   "right": 15,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "enemy/fokkeru"
+ },
+ {
+  "name": "spr_Fokkeru_top1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/fokkeru"
+ },
+ {
+  "name": "spr_Fokkeru_top2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/fokkeru"
+ },
+ {
+  "name": "spr_Font_Hyrulian",
+  "atlas": "gui-0",
+  "frames": 53,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Font1",
+  "atlas": "gui-0",
+  "frames": 53,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Font10",
+  "atlas": "gui-0",
+  "frames": 53,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Font2",
+  "atlas": "gui-0",
+  "frames": 53,
+  "width": 6,
+  "height": 6,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 5,
+   "top": 0,
+   "bottom": 5
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Font2_1",
+  "atlas": "gui-0",
+  "frames": 53,
+  "width": 6,
+  "height": 6,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 5,
+   "top": 0,
+   "bottom": 5
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Font3",
+  "atlas": "gui-0",
+  "frames": 53,
+  "width": 6,
+  "height": 6,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 5,
+   "top": 0,
+   "bottom": 5
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Font3_1",
+  "atlas": "gui-0",
+  "frames": 53,
+  "width": 6,
+  "height": 6,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 5,
+   "top": 0,
+   "bottom": 5
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Font4",
+  "atlas": "gui-0",
+  "frames": 53,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Font4x4_01",
+  "atlas": "gui-0",
+  "frames": 53,
+  "width": 4,
+  "height": 4,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 3,
+   "top": 0,
+   "bottom": 3
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Font5",
+  "atlas": "gui-0",
+  "frames": 53,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Font5x5_01",
+  "atlas": "gui-0",
+  "frames": 53,
+  "width": 5,
+  "height": 5,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 4,
+   "top": 0,
+   "bottom": 4
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Font6",
+  "atlas": "gui-0",
+  "frames": 53,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Font7",
+  "atlas": "gui-0",
+  "frames": 53,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Font8",
+  "atlas": "gui-0",
+  "frames": 53,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Font9",
+  "atlas": "gui-0",
+  "frames": 53,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Fountain_Water_1a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 24,
+  "originX": 8,
+  "originY": 12,
+  "bbox": {
+   "left": 5,
+   "right": 7,
+   "top": 12,
+   "bottom": 23
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Fountain_Water_1a_1",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 24,
+  "originX": 8,
+  "originY": 12,
+  "bbox": {
+   "left": 5,
+   "right": 7,
+   "top": 12,
+   "bottom": 23
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Fountain_Water_1b_1",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 24,
+  "originX": 8,
+  "originY": 12,
+  "bbox": {
+   "left": 4,
+   "right": 8,
+   "top": 11,
+   "bottom": 23
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Fountain_Water_1b_2",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 24,
+  "originX": 8,
+  "originY": 12,
+  "bbox": {
+   "left": 4,
+   "right": 8,
+   "top": 11,
+   "bottom": 23
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Game_Over_Screen",
+  "atlas": "game_over_screen-0",
+  "frames": 1,
+  "width": 256,
+  "height": 224,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 44,
+   "right": 211,
+   "top": 137,
+   "bottom": 223
+  },
+  "folder": "game_over_screen"
+ },
+ {
+  "name": "spr_Ganon_Form2_1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 128,
+  "height": 176,
+  "originX": 64,
+  "originY": 88,
+  "bbox": {
+   "left": 0,
+   "right": 127,
+   "top": 0,
+   "bottom": 175
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_Ganon_Form2_Face1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 48,
+  "height": 80,
+  "originX": 24,
+  "originY": 40,
+  "bbox": {
+   "left": 0,
+   "right": 47,
+   "top": 0,
+   "bottom": 79
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_GanonSkull_Eyes1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 7,
+   "right": 16,
+   "top": 11,
+   "bottom": 15
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_GanonSkull_Eyes1b",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 7,
+   "right": 16,
+   "top": 11,
+   "bottom": 14
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_GanonSkull_Eyes1c",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 8,
+   "right": 15,
+   "top": 11,
+   "bottom": 15
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_GanonSkull_Eyes1d",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 8,
+   "right": 15,
+   "top": 11,
+   "bottom": 14
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_GanonSkull_Eyes2a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 7,
+   "right": 16,
+   "top": 11,
+   "bottom": 14
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_GanonSkull_Eyes2b",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 7,
+   "right": 16,
+   "top": 11,
+   "bottom": 15
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_GanonSkull_Horns1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 3,
+   "right": 20,
+   "top": 3,
+   "bottom": 12
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_GanonSkull_Main1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 5,
+   "right": 18,
+   "top": 6,
+   "bottom": 18
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_GanonSkull_Main2a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 5,
+   "right": 18,
+   "top": 6,
+   "bottom": 19
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_GanonSkull_Mouth1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 9,
+   "right": 14,
+   "top": 13,
+   "bottom": 21
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_GanonSkull_Mouth1b",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 9,
+   "right": 14,
+   "top": 13,
+   "bottom": 21
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_GanonSkull_Mouth2a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 9,
+   "right": 14,
+   "top": 13,
+   "bottom": 21
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_GanonSkull_Nose1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 11,
+   "right": 12,
+   "top": 15,
+   "bottom": 16
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_GanonSkull_Pupils1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 9,
+   "right": 14,
+   "top": 14,
+   "bottom": 14
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_GanonSkull_Pupils2a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 8,
+   "right": 15,
+   "top": 13,
+   "bottom": 14
+  },
+  "folder": "boss/ganon"
+ },
+ {
+  "name": "spr_Geldarm1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/geldarm"
+ },
+ {
+  "name": "spr_Geldarm1_WRB",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/geldarm"
+ },
+ {
+  "name": "spr_Geldarm1a_1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/geldarm"
+ },
+ {
+  "name": "spr_Geldarm2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/geldarm"
+ },
+ {
+  "name": "spr_Geldarm2_WRB",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/geldarm"
+ },
+ {
+  "name": "spr_Geru_1A",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/geru"
+ },
+ {
+  "name": "spr_Geru_1B",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/geru"
+ },
+ {
+  "name": "spr_Geru_2A",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/geru"
+ },
+ {
+  "name": "spr_Geru_2B",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/geru"
+ },
+ {
+  "name": "spr_Geru_3A",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/geru"
+ },
+ {
+  "name": "spr_Geru_Arm1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 2,
+   "bottom": 13
+  },
+  "folder": "enemy/geru"
+ },
+ {
+  "name": "spr_Geru_Arm2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 2,
+   "bottom": 10
+  },
+  "folder": "enemy/geru"
+ },
+ {
+  "name": "spr_GiantBubble1A",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 4,
+   "right": 15,
+   "top": 4,
+   "bottom": 15
+  },
+  "folder": "enemy/bubble"
+ },
+ {
+  "name": "spr_GiantBubble1B",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 4,
+   "right": 15,
+   "top": 0,
+   "bottom": 11
+  },
+  "folder": "enemy/bubble"
+ },
+ {
+  "name": "spr_Girubokku1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/girubokku"
+ },
+ {
+  "name": "spr_Girubokku2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/girubokku"
+ },
+ {
+  "name": "spr_Gooma_1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 40,
+  "height": 48,
+  "originX": 20,
+  "originY": 24,
+  "bbox": {
+   "left": 8,
+   "right": 31,
+   "top": 0,
+   "bottom": 47
+  },
+  "folder": "boss/gooma"
+ },
+ {
+  "name": "spr_Gooma_1b",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 40,
+  "height": 48,
+  "originX": 20,
+  "originY": 24,
+  "bbox": {
+   "left": 8,
+   "right": 31,
+   "top": 0,
+   "bottom": 47
+  },
+  "folder": "boss/gooma"
+ },
+ {
+  "name": "spr_Gooma_2a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 40,
+  "height": 48,
+  "originX": 20,
+  "originY": 24,
+  "bbox": {
+   "left": 8,
+   "right": 31,
+   "top": 0,
+   "bottom": 47
+  },
+  "folder": "boss/gooma"
+ },
+ {
+  "name": "spr_Gooma_2b",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 40,
+  "height": 48,
+  "originX": 20,
+  "originY": 24,
+  "bbox": {
+   "left": 8,
+   "right": 31,
+   "top": 0,
+   "bottom": 47
+  },
+  "folder": "boss/gooma"
+ },
+ {
+  "name": "spr_Gooma_3a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 40,
+  "height": 48,
+  "originX": 20,
+  "originY": 24,
+  "bbox": {
+   "left": 8,
+   "right": 39,
+   "top": 1,
+   "bottom": 47
+  },
+  "folder": "boss/gooma"
+ },
+ {
+  "name": "spr_Gooma_Placement",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 24,
+  "height": 48,
+  "originX": 12,
+  "originY": 24,
+  "bbox": {
+   "left": 23,
+   "right": 0,
+   "top": 47,
+   "bottom": 0
+  },
+  "folder": "boss/gooma"
+ },
+ {
+  "name": "spr_Goriya_A1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/goriya"
+ },
+ {
+  "name": "spr_Goriya_A2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "enemy/goriya"
+ },
+ {
+  "name": "spr_Goriya_B1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/goriya"
+ },
+ {
+  "name": "spr_Goriya_B2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/goriya"
+ },
+ {
+  "name": "spr_Grunt_body1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/grunt"
+ },
+ {
+  "name": "spr_Grunt_body2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/grunt"
+ },
+ {
+  "name": "spr_Grunt_legs1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "enemy/grunt"
+ },
+ {
+  "name": "spr_Grunt_legs2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "enemy/grunt"
+ },
+ {
+  "name": "spr_Guma_arm",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/guma"
+ },
+ {
+  "name": "spr_Guma1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/guma"
+ },
+ {
+  "name": "spr_Guma2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 30
+  },
+  "folder": "enemy/guma"
+ },
+ {
+  "name": "spr_Heart_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 2,
+   "bottom": 6
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Heart_1b",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 7
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Helmethead_body_1",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "boss/helmethead"
+ },
+ {
+  "name": "spr_Helmethead_head_1",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 12
+  },
+  "folder": "boss/helmethead"
+ },
+ {
+  "name": "spr_Helmethead_head_2",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 2,
+   "bottom": 12
+  },
+  "folder": "boss/helmethead"
+ },
+ {
+  "name": "spr_Helmethead_head_3",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 2,
+   "bottom": 13
+  },
+  "folder": "boss/helmethead"
+ },
+ {
+  "name": "spr_Helmethead_head_4",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 11,
+   "top": 1,
+   "bottom": 12
+  },
+  "folder": "boss/helmethead"
+ },
+ {
+  "name": "spr_Horsehead_body1A",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 16,
+  "height": 48,
+  "originX": 8,
+  "originY": 24,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "boss/horsehead"
+ },
+ {
+  "name": "spr_Horsehead_body1B",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 16,
+  "height": 48,
+  "originX": 8,
+  "originY": 24,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "boss/horsehead"
+ },
+ {
+  "name": "spr_Horsehead_body1C",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 16,
+  "height": 48,
+  "originX": 8,
+  "originY": 24,
+  "bbox": {
+   "left": 1,
+   "right": 15,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "boss/horsehead"
+ },
+ {
+  "name": "spr_Horsehead_head1",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 16,
+  "height": 48,
+  "originX": 8,
+  "originY": 24,
+  "bbox": {
+   "left": 1,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "boss/horsehead"
+ },
+ {
+  "name": "spr_HUD_life_container",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 6
+  },
+  "folder": "gui/HUD"
+ },
+ {
+  "name": "spr_HUD_magic_container",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 6
+  },
+  "folder": "gui/HUD"
+ },
+ {
+  "name": "spr_icon_bottle_1a",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 6,
+   "top": 0,
+   "bottom": 6
+  },
+  "folder": "gui/icons"
+ },
+ {
+  "name": "spr_icon_compass",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "gui/icons"
+ },
+ {
+  "name": "spr_icon_shield_1a",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 6,
+   "top": 0,
+   "bottom": 6
+  },
+  "folder": "gui/icons"
+ },
+ {
+  "name": "spr_icon_sword_1b",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 6,
+   "top": 0,
+   "bottom": 6
+  },
+  "folder": "gui/icons"
+ },
+ {
+  "name": "spr_Iron_Knuckle_Attack_high_Draw",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 0,
+   "bottom": 9
+  },
+  "folder": "enemy/iron_knuckle"
+ },
+ {
+  "name": "spr_Iron_Knuckle_Attack_high_Stab",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 9,
+   "bottom": 13
+  },
+  "folder": "enemy/iron_knuckle"
+ },
+ {
+  "name": "spr_Iron_Knuckle_Attack_low_Draw",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 16,
+   "bottom": 21
+  },
+  "folder": "enemy/iron_knuckle"
+ },
+ {
+  "name": "spr_Iron_Knuckle_Attack_low_Stab",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 18,
+   "bottom": 22
+  },
+  "folder": "enemy/iron_knuckle"
+ },
+ {
+  "name": "spr_Iron_Knuckle_Idle1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/iron_knuckle"
+ },
+ {
+  "name": "spr_Iron_Knuckle_Idle2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/iron_knuckle"
+ },
+ {
+  "name": "spr_Iron_Knuckle_Walk1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/iron_knuckle"
+ },
+ {
+  "name": "spr_Iron_Knuckle_Walk2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/iron_knuckle"
+ },
+ {
+  "name": "spr_Item_Axe",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Book",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Book_1b",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Boots",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 7,
+   "top": 3,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Boots_Lvl2_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 7,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 14
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_1b",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_2a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_2b",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_3a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_3f",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_4a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 5,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_5a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_8_Liquid_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 10,
+   "bottom": 14
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_8_Liquid_1a_1",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 7,
+   "bottom": 14
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_8_Liquid_1b_1",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 1,
+   "bottom": 8
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_8_Liquid_1b_2",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 2,
+   "bottom": 8
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_8_Liquid_1b_3",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 3,
+   "bottom": 8
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_8_Liquid_1b_4",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 4,
+   "bottom": 8
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_8_Liquid_1b_5",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 5,
+   "bottom": 8
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_8_Liquid_1b_6",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 5,
+   "top": 6,
+   "bottom": 8
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_8_Liquid_1b_7",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 4,
+   "top": 7,
+   "bottom": 8
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_8_Liquid_1b_8",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 4,
+   "top": 8,
+   "bottom": 8
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_8_Top",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 5,
+   "top": 2,
+   "bottom": 5
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_8a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_8b",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_8c",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bottle_8d",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 4,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Bracelet_1b",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Candle",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Child",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 12,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Cross",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 4,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Cross_1a_1",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 3,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Extra_life",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Feather_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Flower_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Flower_1b",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Flower_1c",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Flute",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Glove",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Hammer",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 6,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Heart_container",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Heart_container_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Heart_container_1b",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Heart_container_1c",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Heart_container_1d",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Heart_container_2a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Key",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 14
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Key_2a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_LifeDoll_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 6,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_LifeDoll_1b",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Magic_container",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Magic_container_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Magic_container_1b",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Magic_container_1c",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Magic_container_1d",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Magical_Key",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Map",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Map_2a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Map_2b",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Mask_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Meat_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Medicine",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 12,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Medicine_1b",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 12,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Melody1_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Mirror",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Necklace",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_PBag",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Raft",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Ring",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 7,
+   "top": 7,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Shield_2a_2",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Skull_key_1a_1",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Sword_1a_3",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Tablet_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Item_Trophy",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_ItemContainer_Piece_HP_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_ItemContainer_Piece_HP_1b",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Jackolantern01_1",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Jackolantern01_2",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Jackolantern01_3",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_kakusu_icon_1a",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 6
+  },
+  "folder": "gui/icons"
+ },
+ {
+  "name": "spr_Key_icon",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 6,
+   "top": 0,
+   "bottom": 6
+  },
+  "folder": "gui/icons"
+ },
+ {
+  "name": "spr_Lance_1A",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 8,
+   "right": 15,
+   "top": 9,
+   "bottom": 13
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Lance_1B",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 11,
+   "bottom": 11
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Leever1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/leever"
+ },
+ {
+  "name": "spr_Leever2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/leever"
+ },
+ {
+  "name": "spr_Link_sword_beam",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 10,
+   "bottom": 13
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Lives_icon",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 6
+  },
+  "folder": "gui/icons"
+ },
+ {
+  "name": "spr_Locked_Door_2a",
+  "atlas": "door-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "door"
+ },
+ {
+  "name": "spr_Locked_Door_2b",
+  "atlas": "door-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 13,
+   "bottom": 15
+  },
+  "folder": "door"
+ },
+ {
+  "name": "spr_Locked_Door1A",
+  "atlas": "door-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "door"
+ },
+ {
+  "name": "spr_Locked_Door1B",
+  "atlas": "door-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "door"
+ },
+ {
+  "name": "spr_Lowder1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 4,
+   "bottom": 15
+  },
+  "folder": "enemy/lowder"
+ },
+ {
+  "name": "spr_Lowder2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 4,
+   "bottom": 15
+  },
+  "folder": "enemy/lowder"
+ },
+ {
+  "name": "spr_Mace1",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 3,
+   "bottom": 14
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Mace2",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 2,
+   "bottom": 12
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Magnot_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 2,
+   "bottom": 13
+  },
+  "folder": "enemy/magnot"
+ },
+ {
+  "name": "spr_Magnot_1b",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 2,
+   "bottom": 13
+  },
+  "folder": "enemy/magnot"
+ },
+ {
+  "name": "spr_Magnot_1c",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 2,
+   "bottom": 13
+  },
+  "folder": "enemy/magnot"
+ },
+ {
+  "name": "spr_Magnot_1d",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 2,
+   "bottom": 13
+  },
+  "folder": "enemy/magnot"
+ },
+ {
+  "name": "spr_Mago1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/mago"
+ },
+ {
+  "name": "spr_Mago2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 3,
+   "bottom": 31
+  },
+  "folder": "enemy/mago"
+ },
+ {
+  "name": "spr_Mau1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 14
+  },
+  "folder": "enemy/mau"
+ },
+ {
+  "name": "spr_Megmat1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/megmat"
+ },
+ {
+  "name": "spr_Megmat2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/megmat"
+ },
+ {
+  "name": "spr_menu_bottle_icon",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 0,
+   "bottom": 6
+  },
+  "folder": "gui/icons"
+ },
+ {
+  "name": "spr_Menu_Heart_icon_1a",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 6,
+   "top": 0,
+   "bottom": 6
+  },
+  "folder": "gui/icons"
+ },
+ {
+  "name": "spr_Menu_Selector_arrow_1a",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 6
+  },
+  "folder": "gui/other"
+ },
+ {
+  "name": "spr_Menu_Sword_icon_1a",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 6,
+   "top": 0,
+   "bottom": 6
+  },
+  "folder": "gui/icons"
+ },
+ {
+  "name": "spr_Moa_3a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 14
+  },
+  "folder": "enemy/moa"
+ },
+ {
+  "name": "spr_Moa1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 14
+  },
+  "folder": "enemy/moa"
+ },
+ {
+  "name": "spr_Moa2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 1,
+   "bottom": 13
+  },
+  "folder": "enemy/moa"
+ },
+ {
+  "name": "spr_Moai_1a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 64,
+  "height": 136,
+  "originX": 32,
+  "originY": 68,
+  "bbox": {
+   "left": 0,
+   "right": 63,
+   "top": 0,
+   "bottom": 135
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Moai_mouth_1a_1",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 40,
+  "height": 64,
+  "originX": 20,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 39,
+   "top": 0,
+   "bottom": 63
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Moai_mouth_3a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 40,
+  "height": 56,
+  "originX": 20,
+  "originY": 28,
+  "bbox": {
+   "left": 0,
+   "right": 39,
+   "top": 0,
+   "bottom": 55
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Moai_mouth_3a_1",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 40,
+  "height": 56,
+  "originX": 20,
+  "originY": 28,
+  "bbox": {
+   "left": 0,
+   "right": 39,
+   "top": 0,
+   "bottom": 55
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Moblin_Hgh_Draw1A",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 8,
+   "right": 35,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_Hgh_Draw1B",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 8,
+   "right": 35,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_Hgh_Draw2A",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 12,
+   "right": 39,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_Hgh_Stab1A",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 16,
+   "right": 47,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_Hgh_Stab1B",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 16,
+   "right": 47,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_Hgh_Stab2A",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 16,
+   "right": 39,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_Hgh_Throw",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 16,
+   "right": 31,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_High_DrawA",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_High_DrawB",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_High_StabA",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_High_StabB",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_Low_Draw",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_Low_Draw1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 12,
+   "right": 31,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_Low_Draw2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 8,
+   "right": 31,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_Low_Draw3",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 16,
+   "right": 31,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_Low_Stab",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_Low_Stab1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 16,
+   "right": 39,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_Low_Stab2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 16,
+   "right": 47,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moblin_Low_Stab3",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 16,
+   "right": 31,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "enemy/moblin"
+ },
+ {
+  "name": "spr_Moby1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/moby"
+ },
+ {
+  "name": "spr_Moby2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 3,
+   "bottom": 15
+  },
+  "folder": "enemy/moby"
+ },
+ {
+  "name": "spr_Moon01",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 63,
+   "top": 0,
+   "bottom": 63
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Myu_2a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 9,
+   "bottom": 15
+  },
+  "folder": "enemy/myu"
+ },
+ {
+  "name": "spr_Myu_2b",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 7,
+   "bottom": 15
+  },
+  "folder": "enemy/myu"
+ },
+ {
+  "name": "spr_Myu1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 12,
+   "top": 9,
+   "bottom": 15
+  },
+  "folder": "enemy/myu"
+ },
+ {
+  "name": "spr_Myu2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 8,
+   "bottom": 15
+  },
+  "folder": "enemy/myu"
+ },
+ {
+  "name": "spr_NPC_A1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 1,
+   "right": 12,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_A2",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 13,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_B1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 12,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_B2",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 13,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_C1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_C2",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_D1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 4,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_D2",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 4,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_Daira_1a",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_Daira_1b",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_E1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 2,
+   "right": 14,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_E2",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_F1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 2,
+   "right": 13,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_F2",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 17,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_G1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 1,
+   "right": 15,
+   "top": 5,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_G2",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 4,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_Goriya_1b",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_H1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_I1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_J1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_J2",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_J3",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 30
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_Moblin_1a_1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_Moblin_3a",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_NPC_Moblin_3b",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Octorok_Idle",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/octorok"
+ },
+ {
+  "name": "spr_Octorok_Mouth",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/octorok"
+ },
+ {
+  "name": "spr_Octorok2_Idle",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/octorok"
+ },
+ {
+  "name": "spr_Octorok2_Mouth",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/octorok"
+ },
+ {
+  "name": "spr_OW_enc_char_1_1a",
+  "atlas": "overworld-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 12,
+   "top": 3,
+   "bottom": 11
+  },
+  "folder": "overworld"
+ },
+ {
+  "name": "spr_OW_enc_char_1_1b",
+  "atlas": "overworld-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 11,
+   "top": 2,
+   "bottom": 11
+  },
+  "folder": "overworld"
+ },
+ {
+  "name": "spr_OW_enc_char_2_1a",
+  "atlas": "overworld-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "overworld"
+ },
+ {
+  "name": "spr_OW_enc_char_2_1b",
+  "atlas": "overworld-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "overworld"
+ },
+ {
+  "name": "spr_Parutamu_body1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/parutamu"
+ },
+ {
+  "name": "spr_Parutamu_body2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/parutamu"
+ },
+ {
+  "name": "spr_Parutamu_body3",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 3,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/parutamu"
+ },
+ {
+  "name": "spr_Parutamu_body4",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "enemy/parutamu"
+ },
+ {
+  "name": "spr_PCSkin_4IFalcon_Lonk01",
+  "atlas": "player_character-0",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Anarkhya_Stonuckle01",
+  "atlas": "player_character-0",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Artisano_DiddyKong01",
+  "atlas": "player_character-0",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Broomietunes_Gail01",
+  "atlas": "player_character-0",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 54,
+   "top": 0,
+   "bottom": 51
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Broomietunes_GamelonZelda01",
+  "atlas": "player_character-0",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Broomietunes_MikeJones01",
+  "atlas": "player_character-0",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 57,
+   "top": 0,
+   "bottom": 47
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Broomietunes_Popolon01",
+  "atlas": "player_character-0",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 57,
+   "top": 0,
+   "bottom": 48
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Charade_Banjo01",
+  "atlas": "player_character-0",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Crim_LeeBrothers01",
+  "atlas": "player_character-1",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 54
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Crim_PrincessZelda01",
+  "atlas": "player_character-1",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Crim_Rygar01",
+  "atlas": "player_character-1",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Cryonisis_SimonBelmont01",
+  "atlas": "player_character-1",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 59,
+   "top": 0,
+   "bottom": 50
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Debilitante_Jason01",
+  "atlas": "player_character-1",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 57,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_EpsilonTheDragon_OverworldLink01",
+  "atlas": "player_character-1",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 55,
+   "top": 0,
+   "bottom": 47
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_EpsilonTheDragon_WolfLink01",
+  "atlas": "player_character-1",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Glottal_Hepper01",
+  "atlas": "player_character-1",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_HoverBat_Caelius01",
+  "atlas": "player_character-1",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 57,
+   "top": 0,
+   "bottom": 48
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_HoverBat_DarkLink01",
+  "atlas": "player_character-2",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_HoverBat_Nyus01",
+  "atlas": "player_character-2",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 59,
+   "top": 0,
+   "bottom": 50
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_HoverBat_Scribbles01",
+  "atlas": "player_character-2",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Irenepunmaster_Shadow01",
+  "atlas": "player_character-2",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_JarachiKid_Shantae01",
+  "atlas": "player_character-2",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 59,
+   "top": 0,
+   "bottom": 50
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_JarachiKid_VaseLady01",
+  "atlas": "player_character-2",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 48
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_KazunobuShimizu_Link01",
+  "atlas": "player_character-2",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Kowalth_Erdrick01",
+  "atlas": "player_character-2",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Kowalth_Orpheus01",
+  "atlas": "player_character-3",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_Link580_Marth01",
+  "atlas": "player_character-3",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_LoriAndRed3445_Cornelius01",
+  "atlas": "player_character-3",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 56,
+   "top": 0,
+   "bottom": 47
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_mattforce2_Meat01",
+  "atlas": "player_character-3",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_mattforce2_Wario01",
+  "atlas": "player_character-3",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 48
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_MisterMike_Chrom01",
+  "atlas": "player_character-3",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_MisterMike_Ganondorf01",
+  "atlas": "player_character-3",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 55,
+   "top": 0,
+   "bottom": 47
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_MisterMike_Parutamu01",
+  "atlas": "player_character-3",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 57,
+   "top": 0,
+   "bottom": 48
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_MisterMike_Stalfos01",
+  "atlas": "player_character-3",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 57,
+   "top": 0,
+   "bottom": 48
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_MisterMike_Zelda1Link01",
+  "atlas": "player_character-4",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_MisterMikeAndSteelCrescent_Bokoblin01",
+  "atlas": "player_character-4",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 61,
+   "top": 0,
+   "bottom": 47
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_NightmareJames_ShadowLink01",
+  "atlas": "player_character-4",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_OkImpala_AmidaLink01",
+  "atlas": "player_character-4",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_RetroFrito_CharaChimera01",
+  "atlas": "player_character-4",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 53,
+   "top": 0,
+   "bottom": 61
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_RetroFrito_Roy01",
+  "atlas": "player_character-4",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 60,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_RippedSnorlax_Mipha01",
+  "atlas": "player_character-4",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_SnowyAndMattforce2_SuccubusHunter01",
+  "atlas": "player_character-4",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_SteelCrescent_PleasingLinkColors01",
+  "atlas": "player_character-5",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 61,
+   "top": 0,
+   "bottom": 51
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_PCSkin_wolf0s_Basil01",
+  "atlas": "player_character-5",
+  "frames": 112,
+  "width": 64,
+  "height": 64,
+  "originX": 32,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 58,
+   "top": 0,
+   "bottom": 49
+  },
+  "folder": "player_character"
+ },
+ {
+  "name": "spr_Piece_Sword1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 9,
+   "bottom": 13
+  },
+  "folder": "enemy/pieces"
+ },
+ {
+  "name": "spr_PillarHead01a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_PillarHead01b",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Placement_01x01",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 1,
+  "height": 1,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 0,
+   "top": 0,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Placement_08x08",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 7,
+   "right": 0,
+   "top": 7,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Placement_08x16",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 7,
+   "right": 0,
+   "top": 15,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Placement_08x32",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 8,
+  "height": 32,
+  "originX": 4,
+  "originY": 16,
+  "bbox": {
+   "left": 7,
+   "right": 0,
+   "top": 31,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Placement_16x16",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 15,
+   "right": 0,
+   "top": 15,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Placement_16x24",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 24,
+  "originX": 8,
+  "originY": 12,
+  "bbox": {
+   "left": 15,
+   "right": 0,
+   "top": 23,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Placement_16x32",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 15,
+   "right": 0,
+   "top": 31,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Placement_16x48",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 48,
+  "originX": 8,
+  "originY": 24,
+  "bbox": {
+   "left": 15,
+   "right": 0,
+   "top": 47,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Placement_24x08",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 24,
+  "height": 8,
+  "originX": 12,
+  "originY": 4,
+  "bbox": {
+   "left": 23,
+   "right": 0,
+   "top": 7,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Placement_24x48",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 24,
+  "height": 48,
+  "originX": 12,
+  "originY": 24,
+  "bbox": {
+   "left": 23,
+   "right": 0,
+   "top": 47,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Placement_32x16",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 16,
+  "originX": 16,
+  "originY": 8,
+  "bbox": {
+   "left": 31,
+   "right": 0,
+   "top": 15,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Placement_32x24",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 24,
+  "originX": 16,
+  "originY": 12,
+  "bbox": {
+   "left": 31,
+   "right": 0,
+   "top": 23,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Placement_32x32",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 31,
+   "right": 0,
+   "top": 31,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Placement_40x32",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 40,
+  "height": 32,
+  "originX": 20,
+  "originY": 16,
+  "bbox": {
+   "left": 39,
+   "right": 0,
+   "top": 31,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Placement_48x32",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 47,
+   "right": 0,
+   "top": 31,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Placement_64x08",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 64,
+  "height": 8,
+  "originX": 32,
+  "originY": 4,
+  "bbox": {
+   "left": 63,
+   "right": 0,
+   "top": 7,
+   "bottom": 0
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Platform_Rock_01a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Platform_Rock_01b",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 1,
+   "right": 13,
+   "top": 1,
+   "bottom": 13
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Platform_Rock_01c",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 3,
+   "right": 12,
+   "top": 3,
+   "bottom": 12
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Pole01Segment",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 3,
+   "right": 5,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_pop01_1",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 2,
+   "right": 4,
+   "top": 2,
+   "bottom": 4
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_pop01_2",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 6,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_pop01_3",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Projectile_Disintegrate1",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 7,
+   "top": 8,
+   "bottom": 15
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Projectile_Disintegrate2",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 8,
+   "bottom": 15
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Ra1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/ra"
+ },
+ {
+  "name": "spr_Ra2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/ra"
+ },
+ {
+  "name": "spr_Rebonack_1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 16,
+   "right": 31,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "boss/rebonack"
+ },
+ {
+  "name": "spr_Rebonack_2a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "boss/rebonack"
+ },
+ {
+  "name": "spr_Rebonack_2b",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "boss/rebonack"
+ },
+ {
+  "name": "spr_Rebonack_Rider",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "boss/rebonack"
+ },
+ {
+  "name": "spr_Rising_Bubble_01",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 4,
+   "bottom": 11
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Rising_XP_text_0",
+  "atlas": "rising_xp_text-0",
+  "frames": 1,
+  "width": 4,
+  "height": 16,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 3,
+   "top": 4,
+   "bottom": 11
+  },
+  "folder": "rising_xp_text"
+ },
+ {
+  "name": "spr_Rising_XP_text_1",
+  "atlas": "rising_xp_text-0",
+  "frames": 1,
+  "width": 4,
+  "height": 16,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 3,
+   "top": 3,
+   "bottom": 11
+  },
+  "folder": "rising_xp_text"
+ },
+ {
+  "name": "spr_Rising_XP_text_2",
+  "atlas": "rising_xp_text-0",
+  "frames": 1,
+  "width": 4,
+  "height": 16,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 3,
+   "top": 3,
+   "bottom": 11
+  },
+  "folder": "rising_xp_text"
+ },
+ {
+  "name": "spr_Rising_XP_text_3",
+  "atlas": "rising_xp_text-0",
+  "frames": 1,
+  "width": 4,
+  "height": 16,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 3,
+   "top": 3,
+   "bottom": 11
+  },
+  "folder": "rising_xp_text"
+ },
+ {
+  "name": "spr_Rising_XP_text_4",
+  "atlas": "rising_xp_text-0",
+  "frames": 1,
+  "width": 4,
+  "height": 16,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 3,
+   "top": 3,
+   "bottom": 11
+  },
+  "folder": "rising_xp_text"
+ },
+ {
+  "name": "spr_Rising_XP_text_5",
+  "atlas": "rising_xp_text-0",
+  "frames": 1,
+  "width": 4,
+  "height": 16,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 3,
+   "top": 3,
+   "bottom": 11
+  },
+  "folder": "rising_xp_text"
+ },
+ {
+  "name": "spr_Rising_XP_text_6",
+  "atlas": "rising_xp_text-0",
+  "frames": 1,
+  "width": 4,
+  "height": 16,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 3,
+   "top": 3,
+   "bottom": 11
+  },
+  "folder": "rising_xp_text"
+ },
+ {
+  "name": "spr_Rising_XP_text_7",
+  "atlas": "rising_xp_text-0",
+  "frames": 1,
+  "width": 4,
+  "height": 16,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 3,
+   "top": 3,
+   "bottom": 11
+  },
+  "folder": "rising_xp_text"
+ },
+ {
+  "name": "spr_Rising_XP_text_8",
+  "atlas": "rising_xp_text-0",
+  "frames": 1,
+  "width": 4,
+  "height": 16,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 3,
+   "top": 3,
+   "bottom": 11
+  },
+  "folder": "rising_xp_text"
+ },
+ {
+  "name": "spr_Rising_XP_text_9",
+  "atlas": "rising_xp_text-0",
+  "frames": 1,
+  "width": 4,
+  "height": 16,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 3,
+   "top": 3,
+   "bottom": 11
+  },
+  "folder": "rising_xp_text"
+ },
+ {
+  "name": "spr_Riverman_FDS",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Riverman_portrait_1a",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Riverman_portrait_1a_1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Rock1",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 3,
+   "bottom": 12
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_SignBoard01",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 16,
+  "height": 8,
+  "originX": 8,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 7
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_Skull_1a_WRB",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 12,
+   "top": 3,
+   "bottom": 12
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_Skull_2a_WRB",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 12,
+   "top": 3,
+   "bottom": 13
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_Skull03",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 12,
+   "top": 3,
+   "bottom": 12
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_Skull04",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 11,
+   "top": 7,
+   "bottom": 15
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_Slime_Body1_Large1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 1,
+   "right": 46,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Slime_Body1_Large1a_Shine1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 5,
+   "right": 19,
+   "top": 5,
+   "bottom": 20
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Slime_Body1_Large1b",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 2,
+   "right": 45,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Slime_Body1_Large1c",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 47,
+   "top": 2,
+   "bottom": 31
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Slime_Body1_Large2a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 1,
+   "right": 46,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Slime_Body1_Large2a_Shine1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 6,
+   "right": 19,
+   "top": 5,
+   "bottom": 23
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Slime_Body1_Large2b",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 2,
+   "right": 45,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Slime_Body1_Large2c",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 48,
+  "height": 32,
+  "originX": 24,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 47,
+   "top": 2,
+   "bottom": 31
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Slime_Small_1a_1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 4,
+   "right": 11,
+   "top": 9,
+   "bottom": 15
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Slime_Small_1a_WRB",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 4,
+   "right": 11,
+   "top": 9,
+   "bottom": 15
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Slime_Small_1b_1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 12,
+   "top": 9,
+   "bottom": 15
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Slime_Small_1b_WRB",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 3,
+   "right": 12,
+   "top": 9,
+   "bottom": 15
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Slime_Transparent_1a_WRB",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 4,
+   "bottom": 15
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Slime_Transparent_1b_WRB",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 4,
+   "bottom": 15
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Slime_Transparent_1c_WRB",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 3,
+   "bottom": 15
+  },
+  "folder": "enemy/bot"
+ },
+ {
+  "name": "spr_Slog1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/slog"
+ },
+ {
+  "name": "spr_Slog2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/slog"
+ },
+ {
+  "name": "spr_Snaraa_1a_1_WRB",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "enemy/snaraa"
+ },
+ {
+  "name": "spr_Snaraa_1a_2_WRB",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 15
+  },
+  "folder": "enemy/snaraa"
+ },
+ {
+  "name": "spr_Snaraa_1a_3_WRB",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/snaraa"
+ },
+ {
+  "name": "spr_SoundWave1",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Spear_piece1",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 9,
+   "bottom": 13
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_Spear_piece2",
+  "atlas": "projectile-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 11,
+   "bottom": 12
+  },
+  "folder": "projectile"
+ },
+ {
+  "name": "spr_SpellItem01",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Spike_ball_1a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 0,
+   "bottom": 14
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Spike_ball_1b",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 0,
+   "bottom": 14
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Spike_ball_2a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Spike_ball_2b",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 1,
+   "bottom": 14
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Spike_ball_3a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Spike_ball_3b",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 1,
+   "bottom": 14
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Spike_ball_3c",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Spike_ball_4a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 0,
+   "bottom": 14
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Spike_ball_5a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 0,
+   "bottom": 14
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Spike_ball_6a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 0,
+   "bottom": 14
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Spike_ball_7a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 0,
+   "bottom": 14
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Spike_ball_Spikes_1a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Spike_ball_Spikes_1b",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Spike_ball_Spikes_1c",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 1,
+   "bottom": 14
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_SpikeBall08",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_SpikeBall09",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Stalfoon_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 11,
+   "top": 4,
+   "bottom": 11
+  },
+  "folder": "enemy/stalfoon"
+ },
+ {
+  "name": "spr_Stalfoon_BG_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 4,
+   "right": 11,
+   "top": 2,
+   "bottom": 15
+  },
+  "folder": "enemy/stalfoon"
+ },
+ {
+  "name": "spr_Stalfos_body1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/stalfos"
+ },
+ {
+  "name": "spr_Stalfos_body2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/stalfos"
+ },
+ {
+  "name": "spr_Stalfos_body3",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 2,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/stalfos"
+ },
+ {
+  "name": "spr_Stalfos_body4",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 1,
+   "right": 14,
+   "top": 3,
+   "bottom": 15
+  },
+  "folder": "enemy/stalfos"
+ },
+ {
+  "name": "spr_Stalfos_legs1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "enemy/stalfos"
+ },
+ {
+  "name": "spr_Stalfos_legs2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 3,
+   "right": 10,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "enemy/stalfos"
+ },
+ {
+  "name": "spr_Stalfos_legs3",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 16,
+   "bottom": 26
+  },
+  "folder": "enemy/stalfos"
+ },
+ {
+  "name": "spr_Stalfos_legs4",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 16,
+   "bottom": 30
+  },
+  "folder": "enemy/stalfos"
+ },
+ {
+  "name": "spr_Stalfos_NPC_1a_1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Stalfos_NPC_1b",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Stalfos_NPC_1b_1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Stallakk_Arm_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 12,
+   "right": 19,
+   "top": 8,
+   "bottom": 12
+  },
+  "folder": "enemy/stallakk"
+ },
+ {
+  "name": "spr_Stallakk_Arm_1b",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 12,
+   "right": 24,
+   "top": 9,
+   "bottom": 12
+  },
+  "folder": "enemy/stallakk"
+ },
+ {
+  "name": "spr_Stallakk_Bottom_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 11,
+   "right": 18,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "enemy/stallakk"
+ },
+ {
+  "name": "spr_Stallakk_Bottom_1b",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 8,
+   "right": 22,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "enemy/stallakk"
+ },
+ {
+  "name": "spr_Stallakk_Chest_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 10,
+   "right": 19,
+   "top": 8,
+   "bottom": 15
+  },
+  "folder": "enemy/stallakk"
+ },
+ {
+  "name": "spr_Stallakk_Full_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 11,
+   "right": 31,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/stallakk"
+ },
+ {
+  "name": "spr_Stallakk_Full_1b",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 8,
+   "right": 31,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/stallakk"
+ },
+ {
+  "name": "spr_Stallakk_Full_1c",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 8,
+   "right": 19,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/stallakk"
+ },
+ {
+  "name": "spr_Stallakk_Head_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 13,
+   "right": 20,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "enemy/stallakk"
+ },
+ {
+  "name": "spr_Stallakk_Legs_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 11,
+   "right": 18,
+   "top": 24,
+   "bottom": 31
+  },
+  "folder": "enemy/stallakk"
+ },
+ {
+  "name": "spr_Stallakk_Top_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 8,
+   "right": 19,
+   "top": 0,
+   "bottom": 22
+  },
+  "folder": "enemy/stallakk"
+ },
+ {
+  "name": "spr_Stallakk_Top_1b",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 11,
+   "right": 31,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/stallakk"
+ },
+ {
+  "name": "spr_Stallakk_Waist_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 11,
+   "right": 16,
+   "top": 16,
+   "bottom": 23
+  },
+  "folder": "enemy/stallakk"
+ },
+ {
+  "name": "spr_stat_meter_head_life",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 6
+  },
+  "folder": "gui/HUD"
+ },
+ {
+  "name": "spr_stat_meter_head_magic",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 6
+  },
+  "folder": "gui/HUD"
+ },
+ {
+  "name": "spr_Statue_4a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 40,
+  "originX": 8,
+  "originY": 20,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 3,
+   "bottom": 39
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Statue_4b",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 48,
+  "originX": 8,
+  "originY": 24,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 3,
+   "bottom": 47
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Statue_4c",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 40,
+  "originX": 8,
+  "originY": 20,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 39
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Statue_4d",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 48,
+  "originX": 8,
+  "originY": 24,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 47
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Statue_5a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 40,
+  "originX": 8,
+  "originY": 20,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 1,
+   "bottom": 39
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Statue_5b",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 40,
+  "originX": 8,
+  "originY": 20,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 4,
+   "bottom": 39
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Statue_6a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Statue_7a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 40,
+  "originX": 8,
+  "originY": 20,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 3,
+   "bottom": 39
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Statue_8a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 40,
+  "originX": 8,
+  "originY": 20,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 3,
+   "bottom": 39
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Stone_Crystal_Slot_1a",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 4,
+  "originY": 4,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 7
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_Switch_part_1a_1",
+  "atlas": "switch-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 8,
+   "right": 14,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "switch"
+ },
+ {
+  "name": "spr_Switch_part_5a",
+  "atlas": "switch-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 6,
+   "bottom": 9
+  },
+  "folder": "switch"
+ },
+ {
+  "name": "spr_SwitchB_1a",
+  "atlas": "switch-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 5,
+   "bottom": 15
+  },
+  "folder": "switch"
+ },
+ {
+  "name": "spr_SwitchB_1b",
+  "atlas": "switch-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 7,
+   "bottom": 15
+  },
+  "folder": "switch"
+ },
+ {
+  "name": "spr_tekke_1a_1_RWB",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/tekke"
+ },
+ {
+  "name": "spr_tekke_1a_1_WRB",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/tekke"
+ },
+ {
+  "name": "spr_tekke_1a_2_RWB",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/tekke"
+ },
+ {
+  "name": "spr_tekke_1a_2_WRB",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/tekke"
+ },
+ {
+  "name": "spr_Tektite_legs",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/tektite"
+ },
+ {
+  "name": "spr_Tektite1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/tektite"
+ },
+ {
+  "name": "spr_Tektite2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/tektite"
+ },
+ {
+  "name": "spr_text_slash_forward",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 1,
+   "bottom": 6
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Text_WrongChar",
+  "atlas": "gui-0",
+  "frames": 1,
+  "width": 8,
+  "height": 8,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 1,
+   "right": 6,
+   "top": 1,
+   "bottom": 6
+  },
+  "folder": "gui/text"
+ },
+ {
+  "name": "spr_Thunderbird_Body_1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 48,
+  "height": 80,
+  "originX": 24,
+  "originY": 40,
+  "bbox": {
+   "left": 0,
+   "right": 47,
+   "top": 0,
+   "bottom": 79
+  },
+  "folder": "boss/thunderbird"
+ },
+ {
+  "name": "spr_Thunderbird_Face_1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 48,
+  "height": 80,
+  "originX": 24,
+  "originY": 40,
+  "bbox": {
+   "left": 16,
+   "right": 31,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "boss/thunderbird"
+ },
+ {
+  "name": "spr_Thunderbird_Face_1b",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 48,
+  "height": 80,
+  "originX": 24,
+  "originY": 40,
+  "bbox": {
+   "left": 16,
+   "right": 31,
+   "top": 16,
+   "bottom": 31
+  },
+  "folder": "boss/thunderbird"
+ },
+ {
+  "name": "spr_Thunderbird_Placement",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 32,
+  "height": 80,
+  "originX": 16,
+  "originY": 40,
+  "bbox": {
+   "left": 31,
+   "right": 0,
+   "top": 79,
+   "bottom": 0
+  },
+  "folder": "boss/thunderbird"
+ },
+ {
+  "name": "spr_Thunderbird_Wings_1a",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 48,
+  "height": 80,
+  "originX": 24,
+  "originY": 40,
+  "bbox": {
+   "left": 1,
+   "right": 46,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "boss/thunderbird"
+ },
+ {
+  "name": "spr_Thunderbird_Wings_1b",
+  "atlas": "boss-0",
+  "frames": 1,
+  "width": 48,
+  "height": 80,
+  "originX": 24,
+  "originY": 40,
+  "bbox": {
+   "left": 2,
+   "right": 45,
+   "top": 0,
+   "bottom": 11
+  },
+  "folder": "boss/thunderbird"
+ },
+ {
+  "name": "spr_Title_screen_Sword_1a",
+  "atlas": "title_screen-0",
+  "frames": 1,
+  "width": 16,
+  "height": 64,
+  "originX": 8,
+  "originY": 32,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 63
+  },
+  "folder": "title_screen"
+ },
+ {
+  "name": "spr_Title_screen_Title",
+  "atlas": "title_screen-0",
+  "frames": 1,
+  "width": 256,
+  "height": 224,
+  "originX": 0,
+  "originY": 0,
+  "bbox": {
+   "left": 59,
+   "right": 198,
+   "top": 48,
+   "bottom": 103
+  },
+  "folder": "title_screen"
+ },
+ {
+  "name": "spr_Torch_1a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Torch_2a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 8,
+  "height": 16,
+  "originX": 4,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 11,
+   "bottom": 15
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Tornado01",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 1,
+   "bottom": 14
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Triforce_1a",
+  "atlas": "item-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "item"
+ },
+ {
+  "name": "spr_Triforce_2a",
+  "atlas": "other-0",
+  "frames": 1,
+  "width": 24,
+  "height": 24,
+  "originX": 12,
+  "originY": 12,
+  "bbox": {
+   "left": 2,
+   "right": 21,
+   "top": 4,
+   "bottom": 19
+  },
+  "folder": "other"
+ },
+ {
+  "name": "spr_Triforce_Keeper_1a",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 2,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Triforce_Keeper_1b",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Wheep_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 16,
+  "originX": 8,
+  "originY": 8,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 0,
+   "bottom": 15
+  },
+  "folder": "enemy/wheep"
+ },
+ {
+  "name": "spr_Wing_1a_1",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 17,
+   "right": 29,
+   "top": 0,
+   "bottom": 16
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_Wing_1b_1",
+  "atlas": "pieces-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 17,
+   "right": 24,
+   "top": 14,
+   "bottom": 31
+  },
+  "folder": "pieces"
+ },
+ {
+  "name": "spr_Wizard1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 14,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "enemy/wizard"
+ },
+ {
+  "name": "spr_Wizard2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 3,
+   "right": 15,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "enemy/wizard"
+ },
+ {
+  "name": "spr_Wosu1",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/wosu"
+ },
+ {
+  "name": "spr_Wosu2",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 0,
+   "bottom": 31
+  },
+  "folder": "enemy/wosu"
+ },
+ {
+  "name": "spr_Zelda_Asleep_1a",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 1,
+   "right": 31,
+   "top": 24,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Zelda_Awake_1a",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 8,
+   "right": 31,
+   "top": 12,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Zelda_Placement_1",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 31,
+   "right": 0,
+   "top": 31,
+   "bottom": 0
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Zelda_Pose_2a",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 8,
+   "right": 23,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Zelda_Pose_3a",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 8,
+   "right": 22,
+   "top": 1,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Zelda_Talk_1a",
+  "atlas": "npc-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 8,
+   "right": 23,
+   "top": 2,
+   "bottom": 31
+  },
+  "folder": "npc"
+ },
+ {
+  "name": "spr_Zora_body_A",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 2,
+   "right": 15,
+   "top": 17,
+   "bottom": 31
+  },
+  "folder": "enemy/zora"
+ },
+ {
+  "name": "spr_Zora_body_B",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 17,
+   "bottom": 31
+  },
+  "folder": "enemy/zora"
+ },
+ {
+  "name": "spr_Zora_head",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 7,
+   "top": 18,
+   "bottom": 28
+  },
+  "folder": "enemy/zora"
+ },
+ {
+  "name": "spr_Zora_High_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 8,
+   "right": 23,
+   "top": 3,
+   "bottom": 31
+  },
+  "folder": "enemy/zora"
+ },
+ {
+  "name": "spr_Zora_Low_1a",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 10,
+   "right": 31,
+   "top": 17,
+   "bottom": 31
+  },
+  "folder": "enemy/zora"
+ },
+ {
+  "name": "spr_Zora_Low_1b",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 32,
+  "height": 32,
+  "originX": 16,
+  "originY": 16,
+  "bbox": {
+   "left": 8,
+   "right": 31,
+   "top": 17,
+   "bottom": 31
+  },
+  "folder": "enemy/zora"
+ },
+ {
+  "name": "spr_Zora_stand",
+  "atlas": "enemy-0",
+  "frames": 1,
+  "width": 16,
+  "height": 32,
+  "originX": 8,
+  "originY": 16,
+  "bbox": {
+   "left": 0,
+   "right": 15,
+   "top": 3,
+   "bottom": 31
+  },
+  "folder": "enemy/zora"
+ }
+]

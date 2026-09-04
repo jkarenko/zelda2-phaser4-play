@@ -1,0 +1,12 @@
+{
+  "frames": {
+    "spr_Game_Over_Screen/0": {
+      "frame": { "x": 0, "y": 0, "w": 256, "h": 224 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 224 },
+      "sourceSize": { "w": 256, "h": 224 }
+    }
+  },
+  "meta": { "image": "game_over_screen-0.png", "size": { "w": 256, "h": 256 }, "scale": 1 }
+}

@@ -1,0 +1,3488 @@
+[
+ {
+  "name": "mus_Battle_Main_1a",
+  "file": "mus_Battle_Main_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Battle_Main_Limited_1a",
+  "file": "mus_Battle_Main_Limited_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Boss_Battle_1a",
+  "file": "mus_Boss_Battle_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Broomietunes_darklink_Body",
+  "file": "mus_Broomietunes_darklink_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Broomietunes"
+ },
+ {
+  "name": "mus_Broomietunes_darklink_Intro",
+  "file": "mus_Broomietunes_darklink_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Broomietunes"
+ },
+ {
+  "name": "mus_Broomietunes_DragmireTower",
+  "file": "mus_Broomietunes_DragmireTower.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Broomietunes"
+ },
+ {
+  "name": "mus_Broomietunes_FileSelect01",
+  "file": "mus_Broomietunes_FileSelect01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Broomietunes"
+ },
+ {
+  "name": "mus_Broomietunes_FileSelect02",
+  "file": "mus_Broomietunes_FileSelect02.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Broomietunes"
+ },
+ {
+  "name": "mus_Castlevania2_BloodyTears_Body",
+  "file": "mus_Castlevania2_BloodyTears_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Castlevania"
+ },
+ {
+  "name": "mus_Castlevania2_BloodyTears_Intro",
+  "file": "mus_Castlevania2_BloodyTears_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Castlevania"
+ },
+ {
+  "name": "mus_Castlevania2_Dungeon_Body",
+  "file": "mus_Castlevania2_Dungeon_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Castlevania"
+ },
+ {
+  "name": "mus_Castlevania2_Dungeon_Intro",
+  "file": "mus_Castlevania2_Dungeon_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Castlevania"
+ },
+ {
+  "name": "mus_Castlevania2_GameStart",
+  "file": "mus_Castlevania2_GameStart.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Castlevania"
+ },
+ {
+  "name": "mus_Castlevania2_Night_Body",
+  "file": "mus_Castlevania2_Night_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Castlevania"
+ },
+ {
+  "name": "mus_Castlevania2_Night_Intro",
+  "file": "mus_Castlevania2_Night_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Castlevania"
+ },
+ {
+  "name": "mus_Castlevania2_Town_Body",
+  "file": "mus_Castlevania2_Town_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Castlevania"
+ },
+ {
+  "name": "mus_Castlevania2_Town_Intro",
+  "file": "mus_Castlevania2_Town_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Castlevania"
+ },
+ {
+  "name": "mus_End_Credits_1a",
+  "file": "mus_End_Credits_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Fall_Scene_1a",
+  "file": "mus_Fall_Scene_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Fanfare01",
+  "file": "mus_Fanfare01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_gain",
+  "file": "mus_gain.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": ""
+ },
+ {
+  "name": "mus_Ganon_Battle1_Body",
+  "file": "mus_Ganon_Battle1_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Broomietunes"
+ },
+ {
+  "name": "mus_Ganon_Battle1_Intro",
+  "file": "mus_Ganon_Battle1_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Broomietunes"
+ },
+ {
+  "name": "mus_Get_Spell_1a",
+  "file": "mus_Get_Spell_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_GetItem01",
+  "file": "mus_GetItem01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_GetItem02",
+  "file": "mus_GetItem02.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Great_Palace_Body_1a",
+  "file": "mus_Great_Palace_Body_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Great_Palace_Intro_1a",
+  "file": "mus_Great_Palace_Intro_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_House_1a",
+  "file": "mus_House_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_House_1a_Square1_1a",
+  "file": "mus_House_1a_Square1_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_House_1a_Triangle_1a",
+  "file": "mus_House_1a_Triangle_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_House_1a_Triangle_Square1_1a",
+  "file": "mus_House_1a_Triangle_Square1_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_House_1a_Triangle_Square2_1a",
+  "file": "mus_House_1a_Triangle_Square2_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_IsabelleChiming_Basement01",
+  "file": "mus_IsabelleChiming_Basement01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Battle",
+  "file": "mus_IsabelleChiming_Battle.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_BattleJPN_Body",
+  "file": "mus_IsabelleChiming_BattleJPN_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_BattleJPN_Intro",
+  "file": "mus_IsabelleChiming_BattleJPN_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_BattleJPN01",
+  "file": "mus_IsabelleChiming_BattleJPN01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Boss",
+  "file": "mus_IsabelleChiming_Boss.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Boss_Intro",
+  "file": "mus_IsabelleChiming_Boss_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_BossBattle01",
+  "file": "mus_IsabelleChiming_BossBattle01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_ContinueSave01",
+  "file": "mus_IsabelleChiming_ContinueSave01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Credits",
+  "file": "mus_IsabelleChiming_Credits.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_DragmireTower_Body",
+  "file": "mus_IsabelleChiming_DragmireTower_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_DragmireTower_Intro",
+  "file": "mus_IsabelleChiming_DragmireTower_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_DragmireTower01",
+  "file": "mus_IsabelleChiming_DragmireTower01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Dungeon1",
+  "file": "mus_IsabelleChiming_Dungeon1.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Dungeon1_Intro",
+  "file": "mus_IsabelleChiming_Dungeon1_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Dungeon2",
+  "file": "mus_IsabelleChiming_Dungeon2.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Dungeon2_Intro",
+  "file": "mus_IsabelleChiming_Dungeon2_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Dungeon3",
+  "file": "mus_IsabelleChiming_Dungeon3.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Dungeon3_Intro",
+  "file": "mus_IsabelleChiming_Dungeon3_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Dungeon4",
+  "file": "mus_IsabelleChiming_Dungeon4.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Dungeon4_Intro",
+  "file": "mus_IsabelleChiming_Dungeon4_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Dungeon5",
+  "file": "mus_IsabelleChiming_Dungeon5.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Dungeon5_Intro",
+  "file": "mus_IsabelleChiming_Dungeon5_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Dungeon6",
+  "file": "mus_IsabelleChiming_Dungeon6.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Dungeon6_Intro",
+  "file": "mus_IsabelleChiming_Dungeon6_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Dungeon7",
+  "file": "mus_IsabelleChiming_Dungeon7.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Dungeon7_Intro",
+  "file": "mus_IsabelleChiming_Dungeon7_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_DungeonClear",
+  "file": "mus_IsabelleChiming_DungeonClear.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_EvilHeart_Body",
+  "file": "mus_IsabelleChiming_EvilHeart_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_EvilHeart_Intro",
+  "file": "mus_IsabelleChiming_EvilHeart_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_EvilHeart01",
+  "file": "mus_IsabelleChiming_EvilHeart01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Fanfare01",
+  "file": "mus_IsabelleChiming_Fanfare01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_FastTravel_Body",
+  "file": "mus_IsabelleChiming_FastTravel_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_FastTravel_Intro",
+  "file": "mus_IsabelleChiming_FastTravel_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_FileSelect",
+  "file": "mus_IsabelleChiming_FileSelect.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_FileSelect_Intro",
+  "file": "mus_IsabelleChiming_FileSelect_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_FileSelect01",
+  "file": "mus_IsabelleChiming_FileSelect01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_FileSelect01_1",
+  "file": "mus_IsabelleChiming_FileSelect01_1.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_GameClear",
+  "file": "mus_IsabelleChiming_GameClear.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_GameOver",
+  "file": "mus_IsabelleChiming_GameOver.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_GameOver_Intro",
+  "file": "mus_IsabelleChiming_GameOver_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Ganon3",
+  "file": "mus_IsabelleChiming_Ganon3.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Ganon3_Intro",
+  "file": "mus_IsabelleChiming_Ganon3_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_GanonFinalForm01",
+  "file": "mus_IsabelleChiming_GanonFinalForm01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_GetItem01",
+  "file": "mus_IsabelleChiming_GetItem01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_GetItem02",
+  "file": "mus_IsabelleChiming_GetItem02.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_GetSpell",
+  "file": "mus_IsabelleChiming_GetSpell.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_GreatPalace01",
+  "file": "mus_IsabelleChiming_GreatPalace01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_HiddenPalace01",
+  "file": "mus_IsabelleChiming_HiddenPalace01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_House01",
+  "file": "mus_IsabelleChiming_House01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_InDoors",
+  "file": "mus_IsabelleChiming_InDoors.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_InDoors_Intro",
+  "file": "mus_IsabelleChiming_InDoors_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_IslandPalace01",
+  "file": "mus_IsabelleChiming_IslandPalace01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_LevelUp",
+  "file": "mus_IsabelleChiming_LevelUp.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_MazeIslandPalace01",
+  "file": "mus_IsabelleChiming_MazeIslandPalace01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_MidoroPalace01",
+  "file": "mus_IsabelleChiming_MidoroPalace01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Minigame_Body",
+  "file": "mus_IsabelleChiming_Minigame_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Minigame_Intro",
+  "file": "mus_IsabelleChiming_Minigame_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Minigame01",
+  "file": "mus_IsabelleChiming_Minigame01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_OldKasuto",
+  "file": "mus_IsabelleChiming_OldKasuto.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_OldKasuto_Intro",
+  "file": "mus_IsabelleChiming_OldKasuto_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_OldKasuto01",
+  "file": "mus_IsabelleChiming_OldKasuto01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Overworld",
+  "file": "mus_IsabelleChiming_Overworld.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Overworld_DeathMtn",
+  "file": "mus_IsabelleChiming_Overworld_DeathMtn.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Overworld_DeathMtn_Intro",
+  "file": "mus_IsabelleChiming_Overworld_DeathMtn_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Overworld_Dragmire_Body",
+  "file": "mus_IsabelleChiming_Overworld_Dragmire_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Overworld_Intro",
+  "file": "mus_IsabelleChiming_Overworld_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Overworld_MazeIsl",
+  "file": "mus_IsabelleChiming_Overworld_MazeIsl.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Overworld_MazeIsl_Intro",
+  "file": "mus_IsabelleChiming_Overworld_MazeIsl_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_OverworldDeathMountain01",
+  "file": "mus_IsabelleChiming_OverworldDeathMountain01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_OverworldMazeIsland01",
+  "file": "mus_IsabelleChiming_OverworldMazeIsland01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_OverworldStandard01",
+  "file": "mus_IsabelleChiming_OverworldStandard01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_PalaceOnTheSea01",
+  "file": "mus_IsabelleChiming_PalaceOnTheSea01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_ParapaPalace01",
+  "file": "mus_IsabelleChiming_ParapaPalace01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_SaveGame",
+  "file": "mus_IsabelleChiming_SaveGame.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_ShadowBoss",
+  "file": "mus_IsabelleChiming_ShadowBoss.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_ShadowBoss_Intro",
+  "file": "mus_IsabelleChiming_ShadowBoss_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_ShadowBoss01",
+  "file": "mus_IsabelleChiming_ShadowBoss01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_ThunderBird",
+  "file": "mus_IsabelleChiming_ThunderBird.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_ThunderBird_Intro",
+  "file": "mus_IsabelleChiming_ThunderBird_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Thunderbird01",
+  "file": "mus_IsabelleChiming_Thunderbird01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Title",
+  "file": "mus_IsabelleChiming_Title.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Title_Intro_1",
+  "file": "mus_IsabelleChiming_Title_Intro_1.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Title01",
+  "file": "mus_IsabelleChiming_Title01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Town",
+  "file": "mus_IsabelleChiming_Town.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Town_Intro",
+  "file": "mus_IsabelleChiming_Town_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_Town01",
+  "file": "mus_IsabelleChiming_Town01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_IsabelleChiming_WakeZelda",
+  "file": "mus_IsabelleChiming_WakeZelda.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "IsabelleChiming"
+ },
+ {
+  "name": "mus_Level_Up_1a",
+  "file": "mus_Level_Up_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_MagicalKeyHouse",
+  "file": "mus_MagicalKeyHouse.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Minigame1",
+  "file": "mus_Minigame1.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Broomietunes"
+ },
+ {
+  "name": "mus_Minigame1_Intro",
+  "file": "mus_Minigame1_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Broomietunes"
+ },
+ {
+  "name": "mus_NikoTengoku_Battle1",
+  "file": "mus_NikoTengoku_Battle1.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_Battle1_2",
+  "file": "mus_NikoTengoku_Battle1_2.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_Boss1",
+  "file": "mus_NikoTengoku_Boss1.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_Boss2",
+  "file": "mus_NikoTengoku_Boss2.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_Dungeon1_2_Body",
+  "file": "mus_NikoTengoku_Dungeon1_2_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_Dungeon1_Body",
+  "file": "mus_NikoTengoku_Dungeon1_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_Dungeon1_Intro",
+  "file": "mus_NikoTengoku_Dungeon1_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_Dungeon2_Body",
+  "file": "mus_NikoTengoku_Dungeon2_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_Dungeon2_Intro",
+  "file": "mus_NikoTengoku_Dungeon2_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_EndCredits",
+  "file": "mus_NikoTengoku_EndCredits.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_FallScene",
+  "file": "mus_NikoTengoku_FallScene.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_Fanfare01",
+  "file": "mus_NikoTengoku_Fanfare01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_GameClear",
+  "file": "mus_NikoTengoku_GameClear.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_GetItem01",
+  "file": "mus_NikoTengoku_GetItem01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_GetItem02",
+  "file": "mus_NikoTengoku_GetItem02.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_GetSpell",
+  "file": "mus_NikoTengoku_GetSpell.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_House",
+  "file": "mus_NikoTengoku_House.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_LevelUp",
+  "file": "mus_NikoTengoku_LevelUp.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_MagicalKeyHouse",
+  "file": "mus_NikoTengoku_MagicalKeyHouse.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_Overworld_Body",
+  "file": "mus_NikoTengoku_Overworld_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_Overworld_Intro",
+  "file": "mus_NikoTengoku_Overworld_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_PlaceCrystal",
+  "file": "mus_NikoTengoku_PlaceCrystal.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_SaveGame",
+  "file": "mus_NikoTengoku_SaveGame.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_Title_Body",
+  "file": "mus_NikoTengoku_Title_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_Title_Intro",
+  "file": "mus_NikoTengoku_Title_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_Town_Body",
+  "file": "mus_NikoTengoku_Town_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_Town_Intro",
+  "file": "mus_NikoTengoku_Town_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_NikoTengoku_WakeZelda",
+  "file": "mus_NikoTengoku_WakeZelda.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "mus_Overworld_Body_1a",
+  "file": "mus_Overworld_Body_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Overworld_Intro_1a",
+  "file": "mus_Overworld_Intro_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Palace_Body_1a",
+  "file": "mus_Palace_Body_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Palace_Body_Part1_Square1_only_1a",
+  "file": "mus_Palace_Body_Part1_Square1_only_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Palace_Body_Part2_Square1_only_1a",
+  "file": "mus_Palace_Body_Part2_Square1_only_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Palace_Intro_1a",
+  "file": "mus_Palace_Intro_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_PlaceCrystal01",
+  "file": "mus_PlaceCrystal01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_SaveGame_Default",
+  "file": "mus_SaveGame_Default.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Shadow_Link_1a",
+  "file": "mus_Shadow_Link_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_SteelCrescent_Battle",
+  "file": "mus_SteelCrescent_Battle.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Boss",
+  "file": "mus_SteelCrescent_Boss.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_ContinueSave",
+  "file": "mus_SteelCrescent_ContinueSave.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Credits_Body",
+  "file": "mus_SteelCrescent_Credits_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Credits_Intro",
+  "file": "mus_SteelCrescent_Credits_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_DarkLink",
+  "file": "mus_SteelCrescent_DarkLink.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_DeathMountain",
+  "file": "mus_SteelCrescent_DeathMountain.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Dragmire",
+  "file": "mus_SteelCrescent_Dragmire.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_DragmireTower",
+  "file": "mus_SteelCrescent_DragmireTower.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Dungeon_Body",
+  "file": "mus_SteelCrescent_Dungeon_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Dungeon_Intro",
+  "file": "mus_SteelCrescent_Dungeon_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Fanfare01",
+  "file": "mus_SteelCrescent_Fanfare01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_FastTravelTunnels",
+  "file": "mus_SteelCrescent_FastTravelTunnels.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_FileSelect",
+  "file": "mus_SteelCrescent_FileSelect.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_FileSelect2",
+  "file": "mus_SteelCrescent_FileSelect2.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_GameClear_PirateVer",
+  "file": "mus_SteelCrescent_GameClear_PirateVer.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Ganon_FinalPhase",
+  "file": "mus_SteelCrescent_Ganon_FinalPhase.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Ganon01",
+  "file": "mus_SteelCrescent_Ganon01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_GetItem",
+  "file": "mus_SteelCrescent_GetItem.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_GetItem01",
+  "file": "mus_SteelCrescent_GetItem01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_GetSpell",
+  "file": "mus_SteelCrescent_GetSpell.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_GreatPalace_Body",
+  "file": "mus_SteelCrescent_GreatPalace_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_GreatPalace_Intro",
+  "file": "mus_SteelCrescent_GreatPalace_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_GreatPalace2_Body",
+  "file": "mus_SteelCrescent_GreatPalace2_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_GreatPalace2_Intro",
+  "file": "mus_SteelCrescent_GreatPalace2_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_House",
+  "file": "mus_SteelCrescent_House.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_LevelUp",
+  "file": "mus_SteelCrescent_LevelUp.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Makarrha",
+  "file": "mus_SteelCrescent_Makarrha.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_MazeIsland",
+  "file": "mus_SteelCrescent_MazeIsland.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_MiniGame_Body",
+  "file": "mus_SteelCrescent_MiniGame_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_OldKasuto",
+  "file": "mus_SteelCrescent_OldKasuto.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_OldKasuto2",
+  "file": "mus_SteelCrescent_OldKasuto2.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Overworld_Body",
+  "file": "mus_SteelCrescent_Overworld_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Overworld_Intro",
+  "file": "mus_SteelCrescent_Overworld_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_PalaceClear",
+  "file": "mus_SteelCrescent_PalaceClear.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_SaveGame",
+  "file": "mus_SteelCrescent_SaveGame.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Thunderbird",
+  "file": "mus_SteelCrescent_Thunderbird.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Title_Body",
+  "file": "mus_SteelCrescent_Title_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Title_Intro",
+  "file": "mus_SteelCrescent_Title_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Town_Body",
+  "file": "mus_SteelCrescent_Town_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_Town_Intro",
+  "file": "mus_SteelCrescent_Town_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent_ValleyOfDeath",
+  "file": "mus_SteelCrescent_ValleyOfDeath.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent"
+ },
+ {
+  "name": "mus_SteelCrescent2_Battle",
+  "file": "mus_SteelCrescent2_Battle.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Boss",
+  "file": "mus_SteelCrescent2_Boss.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_ContinueSave",
+  "file": "mus_SteelCrescent2_ContinueSave.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Credits_Body",
+  "file": "mus_SteelCrescent2_Credits_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_DeathMountain",
+  "file": "mus_SteelCrescent2_DeathMountain.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Dragmire",
+  "file": "mus_SteelCrescent2_Dragmire.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_DragmireTower",
+  "file": "mus_SteelCrescent2_DragmireTower.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Dungeon_Body",
+  "file": "mus_SteelCrescent2_Dungeon_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Dungeon_Intro",
+  "file": "mus_SteelCrescent2_Dungeon_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Dungeon2",
+  "file": "mus_SteelCrescent2_Dungeon2.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_DungeonClear",
+  "file": "mus_SteelCrescent2_DungeonClear.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Fanfare",
+  "file": "mus_SteelCrescent2_Fanfare.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_FileSelect",
+  "file": "mus_SteelCrescent2_FileSelect.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Flute",
+  "file": "mus_SteelCrescent2_Flute.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_GameClear",
+  "file": "mus_SteelCrescent2_GameClear.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Ganon01_Body",
+  "file": "mus_SteelCrescent2_Ganon01_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Ganon01_Intro",
+  "file": "mus_SteelCrescent2_Ganon01_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Ganon02",
+  "file": "mus_SteelCrescent2_Ganon02.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_GetItem01",
+  "file": "mus_SteelCrescent2_GetItem01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_GetItem02",
+  "file": "mus_SteelCrescent2_GetItem02.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_GetSpell",
+  "file": "mus_SteelCrescent2_GetSpell.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_GreatPalace_Body",
+  "file": "mus_SteelCrescent2_GreatPalace_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_GreatPalace_Intro",
+  "file": "mus_SteelCrescent2_GreatPalace_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_House",
+  "file": "mus_SteelCrescent2_House.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_House_1",
+  "file": "mus_SteelCrescent2_House_1.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_LevelUp",
+  "file": "mus_SteelCrescent2_LevelUp.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_MazeIsland",
+  "file": "mus_SteelCrescent2_MazeIsland.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Minigame_Body",
+  "file": "mus_SteelCrescent2_Minigame_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Minigame_Intro",
+  "file": "mus_SteelCrescent2_Minigame_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_OldKasuto",
+  "file": "mus_SteelCrescent2_OldKasuto.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Overworld_Body",
+  "file": "mus_SteelCrescent2_Overworld_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Overworld_Intro",
+  "file": "mus_SteelCrescent2_Overworld_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_SaveGame",
+  "file": "mus_SteelCrescent2_SaveGame.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_ShadowBoss",
+  "file": "mus_SteelCrescent2_ShadowBoss.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_SwordIsland",
+  "file": "mus_SteelCrescent2_SwordIsland.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Thunderbird",
+  "file": "mus_SteelCrescent2_Thunderbird.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Title_Body",
+  "file": "mus_SteelCrescent2_Title_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Title_Intro",
+  "file": "mus_SteelCrescent2_Title_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Town_Body",
+  "file": "mus_SteelCrescent2_Town_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_Town_Intro",
+  "file": "mus_SteelCrescent2_Town_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_TravelTunnels",
+  "file": "mus_SteelCrescent2_TravelTunnels.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent2_WakeZelda",
+  "file": "mus_SteelCrescent2_WakeZelda.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Alt"
+ },
+ {
+  "name": "mus_SteelCrescent3_Battle",
+  "file": "mus_SteelCrescent3_Battle.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_Boss",
+  "file": "mus_SteelCrescent3_Boss.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_Credits_Body",
+  "file": "mus_SteelCrescent3_Credits_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_DeathMountain",
+  "file": "mus_SteelCrescent3_DeathMountain.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_Dragmire",
+  "file": "mus_SteelCrescent3_Dragmire.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_DragmireTower",
+  "file": "mus_SteelCrescent3_DragmireTower.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_Dungeon_Body",
+  "file": "mus_SteelCrescent3_Dungeon_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_Dungeon_Intro",
+  "file": "mus_SteelCrescent3_Dungeon_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_FileSelect",
+  "file": "mus_SteelCrescent3_FileSelect.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_Ganon1And2_Body",
+  "file": "mus_SteelCrescent3_Ganon1And2_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_Ganon1And2_Intro",
+  "file": "mus_SteelCrescent3_Ganon1And2_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_GanonPhase03",
+  "file": "mus_SteelCrescent3_GanonPhase03.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_GreatPalace_Body",
+  "file": "mus_SteelCrescent3_GreatPalace_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_GreatPalace_Intro",
+  "file": "mus_SteelCrescent3_GreatPalace_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_House",
+  "file": "mus_SteelCrescent3_House.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_MazeIsland",
+  "file": "mus_SteelCrescent3_MazeIsland.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_OldKasuto",
+  "file": "mus_SteelCrescent3_OldKasuto.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_Overworld_Body",
+  "file": "mus_SteelCrescent3_Overworld_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_Overworld_Intro",
+  "file": "mus_SteelCrescent3_Overworld_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_ShadowBoss",
+  "file": "mus_SteelCrescent3_ShadowBoss.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_Thunderbird",
+  "file": "mus_SteelCrescent3_Thunderbird.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_Title_Body",
+  "file": "mus_SteelCrescent3_Title_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_Title_Intro",
+  "file": "mus_SteelCrescent3_Title_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_Town_Body",
+  "file": "mus_SteelCrescent3_Town_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_Town_Intro",
+  "file": "mus_SteelCrescent3_Town_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent3_WakeZelda",
+  "file": "mus_SteelCrescent3_WakeZelda.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_NESPlus"
+ },
+ {
+  "name": "mus_SteelCrescent4_Battle",
+  "file": "mus_SteelCrescent4_Battle.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_Boss",
+  "file": "mus_SteelCrescent4_Boss.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_Credits",
+  "file": "mus_SteelCrescent4_Credits.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_DeathMountain",
+  "file": "mus_SteelCrescent4_DeathMountain.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_Dragmire",
+  "file": "mus_SteelCrescent4_Dragmire.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_DragmireTower",
+  "file": "mus_SteelCrescent4_DragmireTower.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_Dungeon_Body",
+  "file": "mus_SteelCrescent4_Dungeon_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_Dungeon_Intro",
+  "file": "mus_SteelCrescent4_Dungeon_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_DungeonClear",
+  "file": "mus_SteelCrescent4_DungeonClear.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_FileSelect",
+  "file": "mus_SteelCrescent4_FileSelect.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_GameClear",
+  "file": "mus_SteelCrescent4_GameClear.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_Ganon01",
+  "file": "mus_SteelCrescent4_Ganon01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_Ganon03",
+  "file": "mus_SteelCrescent4_Ganon03.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_GetSpell",
+  "file": "mus_SteelCrescent4_GetSpell.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_GreatPalace_Body",
+  "file": "mus_SteelCrescent4_GreatPalace_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_GreatPalace_Intro",
+  "file": "mus_SteelCrescent4_GreatPalace_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_House",
+  "file": "mus_SteelCrescent4_House.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_LevelUp",
+  "file": "mus_SteelCrescent4_LevelUp.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_MazeIsland",
+  "file": "mus_SteelCrescent4_MazeIsland.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_MiniGame",
+  "file": "mus_SteelCrescent4_MiniGame.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_Overworld_Body",
+  "file": "mus_SteelCrescent4_Overworld_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_Overworld_Intro",
+  "file": "mus_SteelCrescent4_Overworld_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_ShadowBoss",
+  "file": "mus_SteelCrescent4_ShadowBoss.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_Thunderbird",
+  "file": "mus_SteelCrescent4_Thunderbird.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_Title_Body",
+  "file": "mus_SteelCrescent4_Title_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_Title_Intro",
+  "file": "mus_SteelCrescent4_Title_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_Town_Body",
+  "file": "mus_SteelCrescent4_Town_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_Town_Intro",
+  "file": "mus_SteelCrescent4_Town_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_TravelTunnels",
+  "file": "mus_SteelCrescent4_TravelTunnels.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent4_WakeZelda",
+  "file": "mus_SteelCrescent4_WakeZelda.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Skug"
+ },
+ {
+  "name": "mus_SteelCrescent5_Battle",
+  "file": "mus_SteelCrescent5_Battle.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_Boss",
+  "file": "mus_SteelCrescent5_Boss.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_Credits",
+  "file": "mus_SteelCrescent5_Credits.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_DeathMountain",
+  "file": "mus_SteelCrescent5_DeathMountain.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_Dragmire",
+  "file": "mus_SteelCrescent5_Dragmire.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_DragmireTower",
+  "file": "mus_SteelCrescent5_DragmireTower.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_Dungeon_Body",
+  "file": "mus_SteelCrescent5_Dungeon_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_Dungeon_Intro",
+  "file": "mus_SteelCrescent5_Dungeon_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_DungeonClear",
+  "file": "mus_SteelCrescent5_DungeonClear.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_DungeonTheme02",
+  "file": "mus_SteelCrescent5_DungeonTheme02.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_FileSelect",
+  "file": "mus_SteelCrescent5_FileSelect.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_GameClear",
+  "file": "mus_SteelCrescent5_GameClear.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_Ganon01",
+  "file": "mus_SteelCrescent5_Ganon01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_Ganon03",
+  "file": "mus_SteelCrescent5_Ganon03.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_GetSpell",
+  "file": "mus_SteelCrescent5_GetSpell.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_GreatPalace_Body",
+  "file": "mus_SteelCrescent5_GreatPalace_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_GreatPalace_Intro",
+  "file": "mus_SteelCrescent5_GreatPalace_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_House",
+  "file": "mus_SteelCrescent5_House.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_LevelUp",
+  "file": "mus_SteelCrescent5_LevelUp.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_MazeIsland_Body",
+  "file": "mus_SteelCrescent5_MazeIsland_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_MazeIsland_Intro",
+  "file": "mus_SteelCrescent5_MazeIsland_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_MiniGame",
+  "file": "mus_SteelCrescent5_MiniGame.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_Overworld_Body",
+  "file": "mus_SteelCrescent5_Overworld_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_Overworld_Intro",
+  "file": "mus_SteelCrescent5_Overworld_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_ShadowBoss",
+  "file": "mus_SteelCrescent5_ShadowBoss.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_SwordIsland",
+  "file": "mus_SteelCrescent5_SwordIsland.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_Thunderbird",
+  "file": "mus_SteelCrescent5_Thunderbird.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_Title_Body",
+  "file": "mus_SteelCrescent5_Title_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_Title_Intro",
+  "file": "mus_SteelCrescent5_Title_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_Town_Body",
+  "file": "mus_SteelCrescent5_Town_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_Town_Intro",
+  "file": "mus_SteelCrescent5_Town_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_SteelCrescent5_TravelTunnels",
+  "file": "mus_SteelCrescent5_TravelTunnels.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "SteelCrescent_Synth"
+ },
+ {
+  "name": "mus_Title_Body_1a",
+  "file": "mus_Title_Body_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Title_Intro_1a",
+  "file": "mus_Title_Intro_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Town_Body_1a",
+  "file": "mus_Town_Body_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Town_Intro_1a",
+  "file": "mus_Town_Intro_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Victory_Fanfare_1a",
+  "file": "mus_Victory_Fanfare_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Wake_Zelda_1a",
+  "file": "mus_Wake_Zelda_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "mus_Wyng1_Battle1_Body",
+  "file": "mus_Wyng1_Battle1_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_Battle2_Body",
+  "file": "mus_Wyng1_Battle2_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_BossBattle01",
+  "file": "mus_Wyng1_BossBattle01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_Bulblin01",
+  "file": "mus_Wyng1_Bulblin01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_CompleteContainer",
+  "file": "mus_Wyng1_CompleteContainer.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_ContinueSave_Body",
+  "file": "mus_Wyng1_ContinueSave_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_Credits",
+  "file": "mus_Wyng1_Credits.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_DeathMountain01",
+  "file": "mus_Wyng1_DeathMountain01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_DragmireTower01",
+  "file": "mus_Wyng1_DragmireTower01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_Dungeon01",
+  "file": "mus_Wyng1_Dungeon01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_DungeonClear_Body",
+  "file": "mus_Wyng1_DungeonClear_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_FastTravelTunnels_Body",
+  "file": "mus_Wyng1_FastTravelTunnels_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_FileSelect_Body",
+  "file": "mus_Wyng1_FileSelect_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_GameClear_Body",
+  "file": "mus_Wyng1_GameClear_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_Ganon01",
+  "file": "mus_Wyng1_Ganon01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_GetSpell",
+  "file": "mus_Wyng1_GetSpell.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_GreatPalace01",
+  "file": "mus_Wyng1_GreatPalace01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_House_Body",
+  "file": "mus_Wyng1_House_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_LevelUp",
+  "file": "mus_Wyng1_LevelUp.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_MazeIsland_Body",
+  "file": "mus_Wyng1_MazeIsland_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_Minigame_Body",
+  "file": "mus_Wyng1_Minigame_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_OldKasuto_Body",
+  "file": "mus_Wyng1_OldKasuto_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_Overworld01",
+  "file": "mus_Wyng1_Overworld01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_PrincessZeldaQuest1_Body",
+  "file": "mus_Wyng1_PrincessZeldaQuest1_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_PrincessZeldaQuest2_Body",
+  "file": "mus_Wyng1_PrincessZeldaQuest2_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_ShadowBoss_Body",
+  "file": "mus_Wyng1_ShadowBoss_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_Thunderbird01",
+  "file": "mus_Wyng1_Thunderbird01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_Title01",
+  "file": "mus_Wyng1_Title01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Wyng1_Town01",
+  "file": "mus_Wyng1_Town01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "Wyng"
+ },
+ {
+  "name": "mus_Z1_Credits_Body",
+  "file": "mus_Z1_Credits_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_Z1_Credits_Intro",
+  "file": "mus_Z1_Credits_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_Z1_Dungeon_Body_1a",
+  "file": "mus_Z1_Dungeon_Body_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_Z1_Dungeon_Part1_Triangle_1a",
+  "file": "mus_Z1_Dungeon_Part1_Triangle_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_Z1_Dungeon_Square1_Square2_1a",
+  "file": "mus_Z1_Dungeon_Square1_Square2_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_Z1_Dungeon_Triangle_1a",
+  "file": "mus_Z1_Dungeon_Triangle_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_Z1_Dungeon2",
+  "file": "mus_Z1_Dungeon2.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_Z1_DungeonClear",
+  "file": "mus_Z1_DungeonClear.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_Z1_Flute",
+  "file": "mus_Z1_Flute.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_Z1_GameClear",
+  "file": "mus_Z1_GameClear.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_Z1_GameOver_1a",
+  "file": "mus_Z1_GameOver_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_Z1_GanonDead",
+  "file": "mus_Z1_GanonDead.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_Z1_Get_Item_1a",
+  "file": "mus_Z1_Get_Item_1a.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_Z1_Overworld_Body",
+  "file": "mus_Z1_Overworld_Body.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_Z1_Overworld_Intro",
+  "file": "mus_Z1_Overworld_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_Z1_ShowTriforce",
+  "file": "mus_Z1_ShowTriforce.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_Z1_Title",
+  "file": "mus_Z1_Title.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_Battle",
+  "file": "mus_ZeldaII_FDS_Battle.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_Boss",
+  "file": "mus_ZeldaII_FDS_Boss.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_Dungeon",
+  "file": "mus_ZeldaII_FDS_Dungeon.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_Dungeon_Intro",
+  "file": "mus_ZeldaII_FDS_Dungeon_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_Fanfare01",
+  "file": "mus_ZeldaII_FDS_Fanfare01.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_GetItem",
+  "file": "mus_ZeldaII_FDS_GetItem.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_GetItem2",
+  "file": "mus_ZeldaII_FDS_GetItem2.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_GetSpell",
+  "file": "mus_ZeldaII_FDS_GetSpell.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_House",
+  "file": "mus_ZeldaII_FDS_House.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_LevelUp",
+  "file": "mus_ZeldaII_FDS_LevelUp.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_Overworld",
+  "file": "mus_ZeldaII_FDS_Overworld.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_Overworld_Intro",
+  "file": "mus_ZeldaII_FDS_Overworld_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_SaveGame",
+  "file": "mus_ZeldaII_FDS_SaveGame.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_Title",
+  "file": "mus_ZeldaII_FDS_Title.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_Title_Intro",
+  "file": "mus_ZeldaII_FDS_Title_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_Town",
+  "file": "mus_ZeldaII_FDS_Town.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "mus_ZeldaII_FDS_Town_Intro",
+  "file": "mus_ZeldaII_FDS_Town_Intro.ogg",
+  "group": "mus",
+  "volume": 1,
+  "set": "ZeldaII_FDS"
+ },
+ {
+  "name": "snd_0",
+  "file": "snd_0.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": ""
+ },
+ {
+  "name": "snd_Anounce_Fairy_1a",
+  "file": "snd_Anounce_Fairy_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Beep_Low_HP_1a_1",
+  "file": "snd_Beep_Low_HP_1a_1.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Boomerang_1a",
+  "file": "snd_Boomerang_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Boss_Explode_1a",
+  "file": "snd_Boss_Explode_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Break_Block_1a",
+  "file": "snd_Break_Block_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Cast_Spell_1a",
+  "file": "snd_Cast_Spell_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Castlevania2_PCDeath",
+  "file": "snd_Castlevania2_PCDeath.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "Castlevania"
+ },
+ {
+  "name": "snd_Castlevania2_PCLand",
+  "file": "snd_Castlevania2_PCLand.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "Castlevania"
+ },
+ {
+  "name": "snd_Choose_Char_1a",
+  "file": "snd_Choose_Char_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Crumble_Bridge_1a",
+  "file": "snd_Crumble_Bridge_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Cursor_Move_1a",
+  "file": "snd_Cursor_Move_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Cursor_Move_2a",
+  "file": "snd_Cursor_Move_2a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Cursor_Move_3a",
+  "file": "snd_Cursor_Move_3a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Death_Enemy_1a",
+  "file": "snd_Death_Enemy_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Death_PC_1a",
+  "file": "snd_Death_PC_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Default_Title_Intro_no_volume",
+  "file": "snd_Default_Title_Intro_no_volume.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Default_Title_no_volume",
+  "file": "snd_Default_Title_no_volume.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Ding_Shield_1a",
+  "file": "snd_Ding_Shield_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Elevator_Move_1a",
+  "file": "snd_Elevator_Move_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Eliminate_file_1a",
+  "file": "snd_Eliminate_file_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Encounter_Enter_1a",
+  "file": "snd_Encounter_Enter_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Encounter_Leave_1a",
+  "file": "snd_Encounter_Leave_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_FallScene01",
+  "file": "snd_FallScene01.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Fire_1a",
+  "file": "snd_Fire_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Fire_1b",
+  "file": "snd_Fire_1b.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Fire_1c",
+  "file": "snd_Fire_1c.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Fire_1d",
+  "file": "snd_Fire_1d.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Flute_Item_1a",
+  "file": "snd_Flute_Item_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_gain",
+  "file": "snd_gain.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": ""
+ },
+ {
+  "name": "snd_Grunt_PC_1a",
+  "file": "snd_Grunt_PC_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_GUI_Open_1a",
+  "file": "snd_GUI_Open_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Item_Drop_1a",
+  "file": "snd_Item_Drop_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Laugh_Ganon_1a",
+  "file": "snd_Laugh_Ganon_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Lock_Open_1a",
+  "file": "snd_Lock_Open_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_MagicalKeyHouse",
+  "file": "snd_MagicalKeyHouse.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_NikoTengoku_BossExplode",
+  "file": "snd_NikoTengoku_BossExplode.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_CastSpell",
+  "file": "snd_NikoTengoku_CastSpell.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_CursorFileSelect",
+  "file": "snd_NikoTengoku_CursorFileSelect.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_CursorNameEntry",
+  "file": "snd_NikoTengoku_CursorNameEntry.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_EliminateFile",
+  "file": "snd_NikoTengoku_EliminateFile.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_EncounterEnter",
+  "file": "snd_NikoTengoku_EncounterEnter.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_EncounterLeave",
+  "file": "snd_NikoTengoku_EncounterLeave.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_FairyGreeting",
+  "file": "snd_NikoTengoku_FairyGreeting.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_FallScene",
+  "file": "snd_NikoTengoku_FallScene.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_Flute",
+  "file": "snd_NikoTengoku_Flute.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_GanonLaugh",
+  "file": "snd_NikoTengoku_GanonLaugh.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_InputLetter",
+  "file": "snd_NikoTengoku_InputLetter.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_ItemDrop",
+  "file": "snd_NikoTengoku_ItemDrop.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_Jingle01",
+  "file": "snd_NikoTengoku_Jingle01.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_LowHPBeep",
+  "file": "snd_NikoTengoku_LowHPBeep.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_MagicalKeyHouse",
+  "file": "snd_NikoTengoku_MagicalKeyHouse.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_OpenMenu",
+  "file": "snd_NikoTengoku_OpenMenu.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_PCDeath",
+  "file": "snd_NikoTengoku_PCDeath.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_PCGrunt",
+  "file": "snd_NikoTengoku_PCGrunt.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_PCSwordStab",
+  "file": "snd_NikoTengoku_PCSwordStab.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_RaiseBarrier",
+  "file": "snd_NikoTengoku_RaiseBarrier.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_StrikeSolid",
+  "file": "snd_NikoTengoku_StrikeSolid.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_NikoTengoku_SwordBeam",
+  "file": "snd_NikoTengoku_SwordBeam.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "NikoTengoku"
+ },
+ {
+  "name": "snd_Raise_Barrier_1a",
+  "file": "snd_Raise_Barrier_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Strike_Enemy_1a",
+  "file": "snd_Strike_Enemy_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Strike_Solid_1a",
+  "file": "snd_Strike_Solid_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_SuperMarioBros3_CanonFiring",
+  "file": "snd_SuperMarioBros3_CanonFiring.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "SuperMarioBros3"
+ },
+ {
+  "name": "snd_SuperMarioBros3_CanonFiring_2ndPart",
+  "file": "snd_SuperMarioBros3_CanonFiring_2ndPart.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "SuperMarioBros3"
+ },
+ {
+  "name": "snd_SuperMarioBros3_MarioTransform",
+  "file": "snd_SuperMarioBros3_MarioTransform.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "SuperMarioBros3"
+ },
+ {
+  "name": "snd_Sword_Beam_1a",
+  "file": "snd_Sword_Beam_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Sword_Stab_1a",
+  "file": "snd_Sword_Stab_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Type_Char_1a",
+  "file": "snd_Type_Char_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Walk_Water_1a",
+  "file": "snd_Walk_Water_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Walk_Water_1b",
+  "file": "snd_Walk_Water_1b.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ },
+ {
+  "name": "snd_Z1_Boomerang",
+  "file": "snd_Z1_Boomerang.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_Boomerang_1",
+  "file": "snd_Z1_Boomerang_1.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_Boss_Roar_1a",
+  "file": "snd_Z1_Boss_Roar_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_Cursor01",
+  "file": "snd_Z1_Cursor01.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_Ding01",
+  "file": "snd_Z1_Ding01.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_DoorOpen",
+  "file": "snd_Z1_DoorOpen.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_Dungeon_Part1_Triangle_1a",
+  "file": "snd_Z1_Dungeon_Part1_Triangle_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_EnemyDeath",
+  "file": "snd_Z1_EnemyDeath.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_FairyGreeting",
+  "file": "snd_Z1_FairyGreeting.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_Flute",
+  "file": "snd_Z1_Flute.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_LowHP",
+  "file": "snd_Z1_LowHP.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_LowHP_1",
+  "file": "snd_Z1_LowHP_1.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_PCDamage",
+  "file": "snd_Z1_PCDamage.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_PCDeath",
+  "file": "snd_Z1_PCDeath.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_PlaceBomb",
+  "file": "snd_Z1_PlaceBomb.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_RevealItem",
+  "file": "snd_Z1_RevealItem.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_Secret",
+  "file": "snd_Z1_Secret.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_Stab01",
+  "file": "snd_Z1_Stab01.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_Step_1a",
+  "file": "snd_Z1_Step_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_Steps_1a",
+  "file": "snd_Z1_Steps_1a.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_StrikeSolid",
+  "file": "snd_Z1_StrikeSolid.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_StrikeSolid_1",
+  "file": "snd_Z1_StrikeSolid_1.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_SwordBeam",
+  "file": "snd_Z1_SwordBeam.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_Z1_TypeCharacter01",
+  "file": "snd_Z1_TypeCharacter01.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "TheLegendOfZelda1"
+ },
+ {
+  "name": "snd_ZeldaII_BassNote01",
+  "file": "snd_ZeldaII_BassNote01.ogg",
+  "group": "snd",
+  "volume": 1,
+  "set": "ZeldaII_NES"
+ }
+]

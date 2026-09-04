@@ -1,0 +1,75 @@
+{
+  "frames": {
+    "spr_Rising_XP_text_0/0": {
+      "frame": { "x": 0, "y": 0, "w": 4, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 4, "h": 16 },
+      "sourceSize": { "w": 4, "h": 16 }
+    },
+    "spr_Rising_XP_text_1/0": {
+      "frame": { "x": 5, "y": 0, "w": 4, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 4, "h": 16 },
+      "sourceSize": { "w": 4, "h": 16 }
+    },
+    "spr_Rising_XP_text_2/0": {
+      "frame": { "x": 10, "y": 0, "w": 4, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 4, "h": 16 },
+      "sourceSize": { "w": 4, "h": 16 }
+    },
+    "spr_Rising_XP_text_3/0": {
+      "frame": { "x": 15, "y": 0, "w": 4, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 4, "h": 16 },
+      "sourceSize": { "w": 4, "h": 16 }
+    },
+    "spr_Rising_XP_text_4/0": {
+      "frame": { "x": 20, "y": 0, "w": 4, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 4, "h": 16 },
+      "sourceSize": { "w": 4, "h": 16 }
+    },
+    "spr_Rising_XP_text_5/0": {
+      "frame": { "x": 25, "y": 0, "w": 4, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 4, "h": 16 },
+      "sourceSize": { "w": 4, "h": 16 }
+    },
+    "spr_Rising_XP_text_6/0": {
+      "frame": { "x": 30, "y": 0, "w": 4, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 4, "h": 16 },
+      "sourceSize": { "w": 4, "h": 16 }
+    },
+    "spr_Rising_XP_text_7/0": {
+      "frame": { "x": 35, "y": 0, "w": 4, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 4, "h": 16 },
+      "sourceSize": { "w": 4, "h": 16 }
+    },
+    "spr_Rising_XP_text_8/0": {
+      "frame": { "x": 40, "y": 0, "w": 4, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 4, "h": 16 },
+      "sourceSize": { "w": 4, "h": 16 }
+    },
+    "spr_Rising_XP_text_9/0": {
+      "frame": { "x": 45, "y": 0, "w": 4, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 4, "h": 16 },
+      "sourceSize": { "w": 4, "h": 16 }
+    }
+  },
+  "meta": { "image": "rising_xp_text-0.png", "size": { "w": 64, "h": 16 }, "scale": 1 }
+}

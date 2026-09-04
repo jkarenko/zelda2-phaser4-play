@@ -1,0 +1,54 @@
+{
+  "frames": {
+    "spr_Doorway01_1/0": {
+      "frame": { "x": 0, "y": 0, "w": 16, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 40 },
+      "sourceSize": { "w": 16, "h": 40 }
+    },
+    "spr_Doorway01_Closed01/0": {
+      "frame": { "x": 17, "y": 0, "w": 16, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 40 },
+      "sourceSize": { "w": 16, "h": 40 }
+    },
+    "spr_Doorway01/0": {
+      "frame": { "x": 34, "y": 0, "w": 16, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 40 },
+      "sourceSize": { "w": 16, "h": 40 }
+    },
+    "spr_Locked_Door_2a/0": {
+      "frame": { "x": 51, "y": 0, "w": 8, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 8, "h": 16 },
+      "sourceSize": { "w": 8, "h": 16 }
+    },
+    "spr_Locked_Door_2b/0": {
+      "frame": { "x": 60, "y": 0, "w": 8, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 8, "h": 16 },
+      "sourceSize": { "w": 8, "h": 16 }
+    },
+    "spr_Locked_Door1A/0": {
+      "frame": { "x": 69, "y": 0, "w": 8, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 8, "h": 16 },
+      "sourceSize": { "w": 8, "h": 16 }
+    },
+    "spr_Locked_Door1B/0": {
+      "frame": { "x": 78, "y": 0, "w": 8, "h": 16 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 8, "h": 16 },
+      "sourceSize": { "w": 8, "h": 16 }
+    }
+  },
+  "meta": { "image": "door-0.png", "size": { "w": 128, "h": 64 }, "scale": 1 }
+}
